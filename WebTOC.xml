@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="48a77a77-fee8-4c50-a1d3-3a3ff4e02b83" Title="Pukka" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="d8e17087-9832-40da-9f8d-b5e1d192a87d" Title="PukkaCode" Url="html/N_PukkaCode.htm">
+      <HelpTOCNode Id="25268839-3d1b-4d97-9f01-edbb31cfc994" Title="CorrelationForm Class" Url="html/T_PukkaCode_CorrelationForm.htm">
+        <HelpTOCNode Title="CorrelationForm Constructor " Url="html/M_PukkaCode_CorrelationForm__ctor.htm" />
+        <HelpTOCNode Id="c00be8f6-0245-4998-be90-ad5749de5d95" Title="CorrelationForm Methods" Url="html/Methods_T_PukkaCode_CorrelationForm.htm">
+          <HelpTOCNode Title="Dispose Method " Url="html/M_PukkaCode_CorrelationForm_Dispose.htm" />
+          <HelpTOCNode Title="InitializeComponent Method " Url="html/M_PukkaCode_CorrelationForm_InitializeComponent.htm" />
+          <HelpTOCNode Title="Plot Method " Url="html/M_PukkaCode_CorrelationForm_Plot.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="361a6e8a-9eeb-42ae-9fd5-f2ba29a1b3a5" Title="CorrelationForm Fields" Url="html/Fields_T_PukkaCode_CorrelationForm.htm">
+          <HelpTOCNode Title="annotation Field" Url="html/F_PukkaCode_CorrelationForm_annotation.htm" />
+          <HelpTOCNode Title="components Field" Url="html/F_PukkaCode_CorrelationForm_components.htm" />
+          <HelpTOCNode Title="correlationPlot Field" Url="html/F_PukkaCode_CorrelationForm_correlationPlot.htm" />
+          <HelpTOCNode Title="dataListX Field" Url="html/F_PukkaCode_CorrelationForm_dataListX.htm" />
+          <HelpTOCNode Title="dataListY Field" Url="html/F_PukkaCode_CorrelationForm_dataListY.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="66eecf51-d6c0-439d-a220-422d5c196231" Title="Pareto Class" Url="html/T_PukkaCode_Pareto.htm">
+        <HelpTOCNode Title="Pareto Constructor " Url="html/M_PukkaCode_Pareto__ctor.htm" />
+        <HelpTOCNode Id="90bf4c23-1a4f-4863-8f5b-af5d5e2eb1b6" Title="Pareto Methods" Url="html/Methods_T_PukkaCode_Pareto.htm">
+          <HelpTOCNode Title="Dispose Method " Url="html/M_PukkaCode_Pareto_Dispose.htm" />
+          <HelpTOCNode Title="InitializeComponent Method " Url="html/M_PukkaCode_Pareto_InitializeComponent.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c8afbbcf-2bf2-492b-a0e9-407773b52266" Title="Pareto Fields" Url="html/Fields_T_PukkaCode_Pareto.htm">
+          <HelpTOCNode Title="Bin Field" Url="html/F_PukkaCode_Pareto_Bin.htm" />
+          <HelpTOCNode Title="components Field" Url="html/F_PukkaCode_Pareto_components.htm" />
+          <HelpTOCNode Title="Count Field" Url="html/F_PukkaCode_Pareto_Count.htm" />
+          <HelpTOCNode Title="CountBin Field" Url="html/F_PukkaCode_Pareto_CountBin.htm" />
+          <HelpTOCNode Title="CountByYield Field" Url="html/F_PukkaCode_Pareto_CountByYield.htm" />
+          <HelpTOCNode Title="CountTests Field" Url="html/F_PukkaCode_Pareto_CountTests.htm" />
+          <HelpTOCNode Title="dataGridViewCountByBin Field" Url="html/F_PukkaCode_Pareto_dataGridViewCountByBin.htm" />
+          <HelpTOCNode Title="dataGridViewCountByYield Field" Url="html/F_PukkaCode_Pareto_dataGridViewCountByYield.htm" />
+          <HelpTOCNode Title="dataGridViewImageColumn1 Field" Url="html/F_PukkaCode_Pareto_dataGridViewImageColumn1.htm" />
+          <HelpTOCNode Title="dataGridViewInfo Field" Url="html/F_PukkaCode_Pareto_dataGridViewInfo.htm" />
+          <HelpTOCNode Title="dataGridViewProgressColumn1 Field" Url="html/F_PukkaCode_Pareto_dataGridViewProgressColumn1.htm" />
+          <HelpTOCNode Title="dataGridViewProgressColumn2 Field" Url="html/F_PukkaCode_Pareto_dataGridViewProgressColumn2.htm" />
+          <HelpTOCNode Title="dataGridViewTestList Field" Url="html/F_PukkaCode_Pareto_dataGridViewTestList.htm" />
+          <HelpTOCNode Title="ParameterInfo Field" Url="html/F_PukkaCode_Pareto_ParameterInfo.htm" />
+          <HelpTOCNode Title="Ratio Field" Url="html/F_PukkaCode_Pareto_Ratio.htm" />
+          <HelpTOCNode Title="ratioByTest Field" Url="html/F_PukkaCode_Pareto_ratioByTest.htm" />
+          <HelpTOCNode Title="RatioYield Field" Url="html/F_PukkaCode_Pareto_RatioYield.htm" />
+          <HelpTOCNode Title="tableLayoutPareto Field" Url="html/F_PukkaCode_Pareto_tableLayoutPareto.htm" />
+          <HelpTOCNode Title="TestName Field" Url="html/F_PukkaCode_Pareto_TestName.htm" />
+          <HelpTOCNode Title="TestNumber Field" Url="html/F_PukkaCode_Pareto_TestNumber.htm" />
+          <HelpTOCNode Title="ValueInfo Field" Url="html/F_PukkaCode_Pareto_ValueInfo.htm" />
+          <HelpTOCNode Title="Yield Field" Url="html/F_PukkaCode_Pareto_Yield.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="8ed3c945-362d-41d2-acfc-cfac07436ace" Title="PlotExtension Class" Url="html/T_PukkaCode_PlotExtension.htm">
+        <HelpTOCNode Id="41cc4d1c-5898-4010-a490-65d13b77ac87" Title="PlotExtension Methods" Url="html/Methods_T_PukkaCode_PlotExtension.htm">
+          <HelpTOCNode Title="BoxPlot Method " Url="html/M_PukkaCode_PlotExtension_BoxPlot.htm" />
+          <HelpTOCNode Title="findCoord Method " Url="html/M_PukkaCode_PlotExtension_findCoord.htm" />
+          <HelpTOCNode Title="GenerateColor Method " Url="html/M_PukkaCode_PlotExtension_GenerateColor.htm" />
+          <HelpTOCNode Title="HeatMapByTest Method " Url="html/M_PukkaCode_PlotExtension_HeatMapByTest.htm" />
+          <HelpTOCNode Title="HeatMapPassFail Method " Url="html/M_PukkaCode_PlotExtension_HeatMapPassFail.htm" />
+          <HelpTOCNode Title="HeatMapTouchdowns Method " Url="html/M_PukkaCode_PlotExtension_HeatMapTouchdowns.htm" />
+          <HelpTOCNode Title="PlotHistogram Method " Url="html/M_PukkaCode_PlotExtension_PlotHistogram.htm" />
+          <HelpTOCNode Title="RunChart Method " Url="html/M_PukkaCode_PlotExtension_RunChart.htm" />
+          <HelpTOCNode Title="SetColor Method " Url="html/M_PukkaCode_PlotExtension_SetColor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="405aa7a0-3082-4042-a0c2-b81b38137190" Title="PlotExtension Fields" Url="html/Fields_T_PukkaCode_PlotExtension.htm">
+          <HelpTOCNode Title="index Field" Url="html/F_PukkaCode_PlotExtension_index.htm" />
+          <HelpTOCNode Title="plotColor Field" Url="html/F_PukkaCode_PlotExtension_plotColor.htm" />
+          <HelpTOCNode Title="randomColors Field" Url="html/F_PukkaCode_PlotExtension_randomColors.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e88ced9c-4dc7-431b-a1f4-32daa7e6511f" Title="PukkaGUI Class" Url="html/T_PukkaCode_PukkaGUI.htm">
+        <HelpTOCNode Title="PukkaGUI Constructor " Url="html/M_PukkaCode_PukkaGUI__ctor.htm" />
+        <HelpTOCNode Id="7455db96-1b3d-462f-b120-3ad4c8fff20d" Title="PukkaGUI Methods" Url="html/Methods_T_PukkaCode_PukkaGUI.htm">
+          <HelpTOCNode Title="allToolStripMenuItem_Click Method " Url="html/M_PukkaCode_PukkaGUI_allToolStripMenuItem_Click.htm" />
+          <HelpTOCNode Title="balanceToolStripMenuItem_CheckedChanged Method " Url="html/M_PukkaCode_PukkaGUI_balanceToolStripMenuItem_CheckedChanged.htm" />
+          <HelpTOCNode Title="bluesToolStripMenuItem_Click Method " Url="html/M_PukkaCode_PukkaGUI_bluesToolStripMenuItem_Click.htm" />
+          <HelpTOCNode Title="buttonCorrelation_Click Method " Url="html/M_PukkaCode_PukkaGUI_buttonCorrelation_Click.htm" />
+          <HelpTOCNode Title="buttonPareto_Click Method " Url="html/M_PukkaCode_PukkaGUI_buttonPareto_Click.htm" />
+          <HelpTOCNode Title="CheckBoxCountInvalid_CheckStateChanged Method " Url="html/M_PukkaCode_PukkaGUI_CheckBoxCountInvalid_CheckStateChanged.htm" />
+          <HelpTOCNode Title="ComboBoxSourceFile_SelectedIndexChanged Method " Url="html/M_PukkaCode_PukkaGUI_ComboBoxSourceFile_SelectedIndexChanged.htm" />
+          <HelpTOCNode Title="Dispose Method " Url="html/M_PukkaCode_PukkaGUI_Dispose.htm" />
+          <HelpTOCNode Title="exitToolStripMenuItem_Click Method " Url="html/M_PukkaCode_PukkaGUI_exitToolStripMenuItem_Click.htm" />
+          <HelpTOCNode Title="formsPlot1_MouseClicked Method " Url="html/M_PukkaCode_PukkaGUI_formsPlot1_MouseClicked.htm" />
+          <HelpTOCNode Title="formsPlot1_MouseDoubleClicked Method " Url="html/M_PukkaCode_PukkaGUI_formsPlot1_MouseDoubleClicked.htm" />
+          <HelpTOCNode Title="Histogram_MouseDown Method " Url="html/M_PukkaCode_PukkaGUI_Histogram_MouseDown.htm" />
+          <HelpTOCNode Title="Histogram_MouseUp Method " Url="html/M_PukkaCode_PukkaGUI_Histogram_MouseUp.htm" />
+          <HelpTOCNode Title="InitializeComponent Method " Url="html/M_PukkaCode_PukkaGUI_InitializeComponent.htm" />
+          <HelpTOCNode Title="initPukka Method " Url="html/M_PukkaCode_PukkaGUI_initPukka.htm" />
+          <HelpTOCNode Title="isInRange Method " Url="html/M_PukkaCode_PukkaGUI_isInRange.htm" />
+          <HelpTOCNode Title="ListBox1_MouseDoubleClick Method " Url="html/M_PukkaCode_PukkaGUI_ListBox1_MouseDoubleClick.htm" />
+          <HelpTOCNode Title="listBoxComponent_DoubleClick Method " Url="html/M_PukkaCode_PukkaGUI_listBoxComponent_DoubleClick.htm" />
+          <HelpTOCNode Title="listBoxTestList_SelectedIndexChanged Method " Url="html/M_PukkaCode_PukkaGUI_listBoxTestList_SelectedIndexChanged.htm" />
+          <HelpTOCNode Title="oneToolStripMenuItem_Click Method " Url="html/M_PukkaCode_PukkaGUI_oneToolStripMenuItem_Click.htm" />
+          <HelpTOCNode Title="openToolStripMenuItem_Click Method " Url="html/M_PukkaCode_PukkaGUI_openToolStripMenuItem_Click.htm" />
+          <HelpTOCNode Title="Plot Method " Url="html/M_PukkaCode_PukkaGUI_Plot.htm" />
+          <HelpTOCNode Title="PlotHeatMap_MouseMove Method " Url="html/M_PukkaCode_PukkaGUI_PlotHeatMap_MouseMove.htm" />
+          <HelpTOCNode Title="PukkaGUI_Load Method " Url="html/M_PukkaCode_PukkaGUI_PukkaGUI_Load.htm" />
+          <HelpTOCNode Title="RadioButtonShowOne_CheckedChanged Method " Url="html/M_PukkaCode_PukkaGUI_RadioButtonShowOne_CheckedChanged.htm" />
+          <HelpTOCNode Title="radioButtonViewByTest_CheckedChanged Method " Url="html/M_PukkaCode_PukkaGUI_radioButtonViewByTest_CheckedChanged.htm" />
+          <HelpTOCNode Title="SetLabels Method " Url="html/M_PukkaCode_PukkaGUI_SetLabels.htm" />
+          <HelpTOCNode Title="ShowOutput Method " Url="html/M_PukkaCode_PukkaGUI_ShowOutput.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="11da34a0-f469-4031-b5aa-7d2f9db87dc4" Title="PukkaGUI Fields" Url="html/Fields_T_PukkaCode_PukkaGUI.htm">
+          <HelpTOCNode Title="adjustToolStripMenuItem Field" Url="html/F_PukkaCode_PukkaGUI_adjustToolStripMenuItem.htm" />
+          <HelpTOCNode Title="allToolStripMenuItem Field" Url="html/F_PukkaCode_PukkaGUI_allToolStripMenuItem.htm" />
+          <HelpTOCNode Title="balanceToolStripMenuItem Field" Url="html/F_PukkaCode_PukkaGUI_balanceToolStripMenuItem.htm" />
+          <HelpTOCNode Title="bluesToolStripMenuItem Field" Url="html/F_PukkaCode_PukkaGUI_bluesToolStripMenuItem.htm" />
+          <HelpTOCNode Title="BoxPlot Field" Url="html/F_PukkaCode_PukkaGUI_BoxPlot.htm" />
+          <HelpTOCNode Title="buttonCorrelation Field" Url="html/F_PukkaCode_PukkaGUI_buttonCorrelation.htm" />
+          <HelpTOCNode Title="buttonPareto Field" Url="html/F_PukkaCode_PukkaGUI_buttonPareto.htm" />
+          <HelpTOCNode Title="checkBoxCountInvalid Field" Url="html/F_PukkaCode_PukkaGUI_checkBoxCountInvalid.htm" />
+          <HelpTOCNode Title="colortheme Field" Url="html/F_PukkaCode_PukkaGUI_colortheme.htm" />
+          <HelpTOCNode Title="colorThemesToolStripMenuItem Field" Url="html/F_PukkaCode_PukkaGUI_colorThemesToolStripMenuItem.htm" />
+          <HelpTOCNode Title="comboBoxSourceFile Field" Url="html/F_PukkaCode_PukkaGUI_comboBoxSourceFile.htm" />
+          <HelpTOCNode Title="componentDescLabel Field" Url="html/F_PukkaCode_PukkaGUI_componentDescLabel.htm" />
+          <HelpTOCNode Title="components Field" Url="html/F_PukkaCode_PukkaGUI_components.htm" />
+          <HelpTOCNode Title="coordToolTip Field" Url="html/F_PukkaCode_PukkaGUI_coordToolTip.htm" />
+          <HelpTOCNode Title="countInvalid Field" Url="html/F_PukkaCode_PukkaGUI_countInvalid.htm" />
+          <HelpTOCNode Title="cp_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_cp_textLabel.htm" />
+          <HelpTOCNode Title="cpk_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_cpk_textLabel.htm" />
+          <HelpTOCNode Title="cpkLabel Field" Url="html/F_PukkaCode_PukkaGUI_cpkLabel.htm" />
+          <HelpTOCNode Title="cpLabel Field" Url="html/F_PukkaCode_PukkaGUI_cpLabel.htm" />
+          <HelpTOCNode Title="dataToolStripMenuItem Field" Url="html/F_PukkaCode_PukkaGUI_dataToolStripMenuItem.htm" />
+          <HelpTOCNode Title="exitToolStripMenuItem Field" Url="html/F_PukkaCode_PukkaGUI_exitToolStripMenuItem.htm" />
+          <HelpTOCNode Title="fileToolStripMenuItem Field" Url="html/F_PukkaCode_PukkaGUI_fileToolStripMenuItem.htm" />
+          <HelpTOCNode Title="graphsToolStripMenuItem Field" Url="html/F_PukkaCode_PukkaGUI_graphsToolStripMenuItem.htm" />
+          <HelpTOCNode Title="greensToolStripMenuItem Field" Url="html/F_PukkaCode_PukkaGUI_greensToolStripMenuItem.htm" />
+          <HelpTOCNode Title="groupBoxComponents Field" Url="html/F_PukkaCode_PukkaGUI_groupBoxComponents.htm" />
+          <HelpTOCNode Title="groupBoxStatistics Field" Url="html/F_PukkaCode_PukkaGUI_groupBoxStatistics.htm" />
+          <HelpTOCNode Title="HeatMap Field" Url="html/F_PukkaCode_PukkaGUI_HeatMap.htm" />
+          <HelpTOCNode Title="heatMapCoordinateCorrection Field" Url="html/F_PukkaCode_PukkaGUI_heatMapCoordinateCorrection.htm" />
+          <HelpTOCNode Title="highlightSelectedAreaToolStripMenuItem Field" Url="html/F_PukkaCode_PukkaGUI_highlightSelectedAreaToolStripMenuItem.htm" />
+          <HelpTOCNode Title="hilim_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_hilim_textLabel.htm" />
+          <HelpTOCNode Title="hilimLabel Field" Url="html/F_PukkaCode_PukkaGUI_hilimLabel.htm" />
+          <HelpTOCNode Title="Histogram Field" Url="html/F_PukkaCode_PukkaGUI_Histogram.htm" />
+          <HelpTOCNode Title="listBoxComponent Field" Url="html/F_PukkaCode_PukkaGUI_listBoxComponent.htm" />
+          <HelpTOCNode Title="listBoxTestList Field" Url="html/F_PukkaCode_PukkaGUI_listBoxTestList.htm" />
+          <HelpTOCNode Title="lolim_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_lolim_textLabel.htm" />
+          <HelpTOCNode Title="lolimLabel Field" Url="html/F_PukkaCode_PukkaGUI_lolimLabel.htm" />
+          <HelpTOCNode Title="max_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_max_textLabel.htm" />
+          <HelpTOCNode Title="maxLabel Field" Url="html/F_PukkaCode_PukkaGUI_maxLabel.htm" />
+          <HelpTOCNode Title="maxX Field" Url="html/F_PukkaCode_PukkaGUI_maxX.htm" />
+          <HelpTOCNode Title="maxY Field" Url="html/F_PukkaCode_PukkaGUI_maxY.htm" />
+          <HelpTOCNode Title="mean_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_mean_textLabel.htm" />
+          <HelpTOCNode Title="meanLabel Field" Url="html/F_PukkaCode_PukkaGUI_meanLabel.htm" />
+          <HelpTOCNode Title="median_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_median_textLabel.htm" />
+          <HelpTOCNode Title="medianLabel Field" Url="html/F_PukkaCode_PukkaGUI_medianLabel.htm" />
+          <HelpTOCNode Title="menuStripFile Field" Url="html/F_PukkaCode_PukkaGUI_menuStripFile.htm" />
+          <HelpTOCNode Title="min_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_min_textLabel.htm" />
+          <HelpTOCNode Title="minLabel Field" Url="html/F_PukkaCode_PukkaGUI_minLabel.htm" />
+          <HelpTOCNode Title="minus4sigma_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_minus4sigma_textLabel.htm" />
+          <HelpTOCNode Title="minus4sigmaLabel Field" Url="html/F_PukkaCode_PukkaGUI_minus4sigmaLabel.htm" />
+          <HelpTOCNode Title="minus5sigma_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_minus5sigma_textLabel.htm" />
+          <HelpTOCNode Title="minus5sigmaLabel Field" Url="html/F_PukkaCode_PukkaGUI_minus5sigmaLabel.htm" />
+          <HelpTOCNode Title="minus6sigma_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_minus6sigma_textLabel.htm" />
+          <HelpTOCNode Title="minus6sigmaLabel Field" Url="html/F_PukkaCode_PukkaGUI_minus6sigmaLabel.htm" />
+          <HelpTOCNode Title="minX Field" Url="html/F_PukkaCode_PukkaGUI_minX.htm" />
+          <HelpTOCNode Title="minY Field" Url="html/F_PukkaCode_PukkaGUI_minY.htm" />
+          <HelpTOCNode Title="oneToolStripMenuItem Field" Url="html/F_PukkaCode_PukkaGUI_oneToolStripMenuItem.htm" />
+          <HelpTOCNode Title="openFileDialogMenuStrip Field" Url="html/F_PukkaCode_PukkaGUI_openFileDialogMenuStrip.htm" />
+          <HelpTOCNode Title="openToolStripMenuItem Field" Url="html/F_PukkaCode_PukkaGUI_openToolStripMenuItem.htm" />
+          <HelpTOCNode Title="panel1 Field" Url="html/F_PukkaCode_PukkaGUI_panel1.htm" />
+          <HelpTOCNode Title="plottableCorrelX Field" Url="html/F_PukkaCode_PukkaGUI_plottableCorrelX.htm" />
+          <HelpTOCNode Title="plottableCorrelY Field" Url="html/F_PukkaCode_PukkaGUI_plottableCorrelY.htm" />
+          <HelpTOCNode Title="plus4sigma_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_plus4sigma_textLabel.htm" />
+          <HelpTOCNode Title="plus4sigmaLabel Field" Url="html/F_PukkaCode_PukkaGUI_plus4sigmaLabel.htm" />
+          <HelpTOCNode Title="plus5sigma_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_plus5sigma_textLabel.htm" />
+          <HelpTOCNode Title="plus5sigmaLabel Field" Url="html/F_PukkaCode_PukkaGUI_plus5sigmaLabel.htm" />
+          <HelpTOCNode Title="plus6sigma_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_plus6sigma_textLabel.htm" />
+          <HelpTOCNode Title="plus6sigmaLabel Field" Url="html/F_PukkaCode_PukkaGUI_plus6sigmaLabel.htm" />
+          <HelpTOCNode Title="prgBarTDIFLoad Field" Url="html/F_PukkaCode_PukkaGUI_prgBarTDIFLoad.htm" />
+          <HelpTOCNode Title="Q1_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_Q1_textLabel.htm" />
+          <HelpTOCNode Title="Q1Label Field" Url="html/F_PukkaCode_PukkaGUI_Q1Label.htm" />
+          <HelpTOCNode Title="Q3_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_Q3_textLabel.htm" />
+          <HelpTOCNode Title="Q3Label Field" Url="html/F_PukkaCode_PukkaGUI_Q3Label.htm" />
+          <HelpTOCNode Title="radioButtonPassFail Field" Url="html/F_PukkaCode_PukkaGUI_radioButtonPassFail.htm" />
+          <HelpTOCNode Title="radioButtonShowAll Field" Url="html/F_PukkaCode_PukkaGUI_radioButtonShowAll.htm" />
+          <HelpTOCNode Title="radioButtonShowOne Field" Url="html/F_PukkaCode_PukkaGUI_radioButtonShowOne.htm" />
+          <HelpTOCNode Title="radioButtonTouchdowns Field" Url="html/F_PukkaCode_PukkaGUI_radioButtonTouchdowns.htm" />
+          <HelpTOCNode Title="radioButtonViewByTest Field" Url="html/F_PukkaCode_PukkaGUI_radioButtonViewByTest.htm" />
+          <HelpTOCNode Title="randomColors Field" Url="html/F_PukkaCode_PukkaGUI_randomColors.htm" />
+          <HelpTOCNode Title="range_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_range_textLabel.htm" />
+          <HelpTOCNode Title="rangeLabel Field" Url="html/F_PukkaCode_PukkaGUI_rangeLabel.htm" />
+          <HelpTOCNode Title="Runchart Field" Url="html/F_PukkaCode_PukkaGUI_Runchart.htm" />
+          <HelpTOCNode Title="samples_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_samples_textLabel.htm" />
+          <HelpTOCNode Title="samplesLabel Field" Url="html/F_PukkaCode_PukkaGUI_samplesLabel.htm" />
+          <HelpTOCNode Title="showAll Field" Url="html/F_PukkaCode_PukkaGUI_showAll.htm" />
+          <HelpTOCNode Title="stdDev_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_stdDev_textLabel.htm" />
+          <HelpTOCNode Title="stdDevLabel Field" Url="html/F_PukkaCode_PukkaGUI_stdDevLabel.htm" />
+          <HelpTOCNode Title="tableLayoutPanelGUI Field" Url="html/F_PukkaCode_PukkaGUI_tableLayoutPanelGUI.htm" />
+          <HelpTOCNode Title="tableLayoutPanelSampleList Field" Url="html/F_PukkaCode_PukkaGUI_tableLayoutPanelSampleList.htm" />
+          <HelpTOCNode Title="tableLayoutPanelStatistics Field" Url="html/F_PukkaCode_PukkaGUI_tableLayoutPanelStatistics.htm" />
+          <HelpTOCNode Title="tdif Field" Url="html/F_PukkaCode_PukkaGUI_tdif.htm" />
+          <HelpTOCNode Title="temperature_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_temperature_textLabel.htm" />
+          <HelpTOCNode Title="temperatureLabel Field" Url="html/F_PukkaCode_PukkaGUI_temperatureLabel.htm" />
+          <HelpTOCNode Title="test_textLabel Field" Url="html/F_PukkaCode_PukkaGUI_test_textLabel.htm" />
+          <HelpTOCNode Title="testNameLabel Field" Url="html/F_PukkaCode_PukkaGUI_testNameLabel.htm" />
+          <HelpTOCNode Title="turboToolStripMenuItem Field" Url="html/F_PukkaCode_PukkaGUI_turboToolStripMenuItem.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="47707b38-13b9-42d9-8e90-24fccdb4598c" Title="PukkaPopUpGUI Class" Url="html/T_PukkaCode_PukkaPopUpGUI.htm">
+        <HelpTOCNode Title="PukkaPopUpGUI Constructor " Url="html/M_PukkaCode_PukkaPopUpGUI__ctor.htm" />
+        <HelpTOCNode Id="be77b7c0-b06c-4a36-a105-0b029041facb" Title="PukkaPopUpGUI Methods" Url="html/Methods_T_PukkaCode_PukkaPopUpGUI.htm">
+          <HelpTOCNode Title="buttonPopUp_Click Method " Url="html/M_PukkaCode_PukkaPopUpGUI_buttonPopUp_Click.htm" />
+          <HelpTOCNode Title="Delete_Click Method " Url="html/M_PukkaCode_PukkaPopUpGUI_Delete_Click.htm" />
+          <HelpTOCNode Title="DisplayButton_Click Method " Url="html/M_PukkaCode_PukkaPopUpGUI_DisplayButton_Click.htm" />
+          <HelpTOCNode Title="Dispose Method " Url="html/M_PukkaCode_PukkaPopUpGUI_Dispose.htm" />
+          <HelpTOCNode Title="InitializeComponent Method " Url="html/M_PukkaCode_PukkaPopUpGUI_InitializeComponent.htm" />
+          <HelpTOCNode Title="listBoxChooseFilePopUp_DragDrop Method " Url="html/M_PukkaCode_PukkaPopUpGUI_listBoxChooseFilePopUp_DragDrop.htm" />
+          <HelpTOCNode Title="listBoxChooseFilePopUp_DragEnter Method " Url="html/M_PukkaCode_PukkaPopUpGUI_listBoxChooseFilePopUp_DragEnter.htm" />
+          <HelpTOCNode Title="listBoxChooseFilePopUp_KeyDown Method " Url="html/M_PukkaCode_PukkaPopUpGUI_listBoxChooseFilePopUp_KeyDown.htm" />
+          <HelpTOCNode Title="listBoxChooseFilePopUp_KeyPress Method " Url="html/M_PukkaCode_PukkaPopUpGUI_listBoxChooseFilePopUp_KeyPress.htm" />
+          <HelpTOCNode Title="listBoxChooseFilePopUp_MouseMove Method " Url="html/M_PukkaCode_PukkaPopUpGUI_listBoxChooseFilePopUp_MouseMove.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4743033c-6224-45d5-b2c8-c749ef512d4a" Title="PukkaPopUpGUI Fields" Url="html/Fields_T_PukkaCode_PukkaPopUpGUI.htm">
+          <HelpTOCNode Title="buttonPopUp Field" Url="html/F_PukkaCode_PukkaPopUpGUI_buttonPopUp.htm" />
+          <HelpTOCNode Title="components Field" Url="html/F_PukkaCode_PukkaPopUpGUI_components.htm" />
+          <HelpTOCNode Title="DisplayButton Field" Url="html/F_PukkaCode_PukkaPopUpGUI_DisplayButton.htm" />
+          <HelpTOCNode Title="labelDragDrop Field" Url="html/F_PukkaCode_PukkaPopUpGUI_labelDragDrop.htm" />
+          <HelpTOCNode Title="labelPath Field" Url="html/F_PukkaCode_PukkaPopUpGUI_labelPath.htm" />
+          <HelpTOCNode Title="listBoxChooseFilePopUp Field" Url="html/F_PukkaCode_PukkaPopUpGUI_listBoxChooseFilePopUp.htm" />
+          <HelpTOCNode Title="openFileDialogTdif Field" Url="html/F_PukkaCode_PukkaPopUpGUI_openFileDialogTdif.htm" />
+          <HelpTOCNode Title="panelDragDrop Field" Url="html/F_PukkaCode_PukkaPopUpGUI_panelDragDrop.htm" />
+          <HelpTOCNode Title="pictureBox1 Field" Url="html/F_PukkaCode_PukkaPopUpGUI_pictureBox1.htm" />
+          <HelpTOCNode Title="RemoveSelected Field" Url="html/F_PukkaCode_PukkaPopUpGUI_RemoveSelected.htm" />
+          <HelpTOCNode Title="tableLayoutPanel1 Field" Url="html/F_PukkaCode_PukkaPopUpGUI_tableLayoutPanel1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="bd5a2f04-64b3-45ca-ae87-f8501de1aab8" Title="PukkaPopUpGUI.Program Class" Url="html/T_PukkaCode_PukkaPopUpGUI_Program.htm">
+        <HelpTOCNode Id="b2ecd19a-52d6-4d3d-8ead-04f45c57a9e3" Title="Program Methods" Url="html/Methods_T_PukkaCode_PukkaPopUpGUI_Program.htm">
+          <HelpTOCNode Title="Main Method " Url="html/M_PukkaCode_PukkaPopUpGUI_Program_Main.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="058c52fe-6826-4b2f-a311-a09815d456b4" Title="SampleForm Class" Url="html/T_PukkaCode_SampleForm.htm">
+        <HelpTOCNode Title="SampleForm Constructor " Url="html/M_PukkaCode_SampleForm__ctor.htm" />
+        <HelpTOCNode Id="dbe7a7ba-8dc7-4610-b24f-7817390e8733" Title="SampleForm Methods" Url="html/Methods_T_PukkaCode_SampleForm.htm">
+          <HelpTOCNode Title="checkBoxDisplayAll_CheckedChanged Method " Url="html/M_PukkaCode_SampleForm_checkBoxDisplayAll_CheckedChanged.htm" />
+          <HelpTOCNode Title="Dispose Method " Url="html/M_PukkaCode_SampleForm_Dispose.htm" />
+          <HelpTOCNode Title="InitializeComponent Method " Url="html/M_PukkaCode_SampleForm_InitializeComponent.htm" />
+          <HelpTOCNode Title="makeComponentTable Method " Url="html/M_PukkaCode_SampleForm_makeComponentTable.htm" />
+          <HelpTOCNode Title="SampleForm_Load Method " Url="html/M_PukkaCode_SampleForm_SampleForm_Load.htm" />
+          <HelpTOCNode Title="SampleFormLabels Method " Url="html/M_PukkaCode_SampleForm_SampleFormLabels.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3297a4af-2ce2-4936-a355-7491d5b40080" Title="SampleForm Fields" Url="html/Fields_T_PukkaCode_SampleForm.htm">
+          <HelpTOCNode Title="checkBoxDisplayAll Field" Url="html/F_PukkaCode_SampleForm_checkBoxDisplayAll.htm" />
+          <HelpTOCNode Title="components Field" Url="html/F_PukkaCode_SampleForm_components.htm" />
+          <HelpTOCNode Title="dataGridView Field" Url="html/F_PukkaCode_SampleForm_dataGridView.htm" />
+          <HelpTOCNode Title="labelBin Field" Url="html/F_PukkaCode_SampleForm_labelBin.htm" />
+          <HelpTOCNode Title="labelCoord Field" Url="html/F_PukkaCode_SampleForm_labelCoord.htm" />
+          <HelpTOCNode Title="labelDeviceNumber Field" Url="html/F_PukkaCode_SampleForm_labelDeviceNumber.htm" />
+          <HelpTOCNode Title="labelPF Field" Url="html/F_PukkaCode_SampleForm_labelPF.htm" />
+          <HelpTOCNode Title="labelSiteNumber Field" Url="html/F_PukkaCode_SampleForm_labelSiteNumber.htm" />
+          <HelpTOCNode Title="labelTextBin Field" Url="html/F_PukkaCode_SampleForm_labelTextBin.htm" />
+          <HelpTOCNode Title="labelTextCoord Field" Url="html/F_PukkaCode_SampleForm_labelTextCoord.htm" />
+          <HelpTOCNode Title="labelTextDevice Field" Url="html/F_PukkaCode_SampleForm_labelTextDevice.htm" />
+          <HelpTOCNode Title="labelTextSite Field" Url="html/F_PukkaCode_SampleForm_labelTextSite.htm" />
+          <HelpTOCNode Title="tableLayoutPanelDatalist Field" Url="html/F_PukkaCode_SampleForm_tableLayoutPanelDatalist.htm" />
+          <HelpTOCNode Title="tdifFile Field" Url="html/F_PukkaCode_SampleForm_tdifFile.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e0f1858d-14aa-415f-b475-39ea4fe4663e" Title="Selected Class" Url="html/T_PukkaCode_Selected.htm">
+        <HelpTOCNode Title="Selected Constructor " Url="html/M_PukkaCode_Selected__ctor.htm" />
+        <HelpTOCNode Id="46b3e5fd-6ca8-499b-9d31-f35729ee195c" Title="Selected Properties" Url="html/Properties_T_PukkaCode_Selected.htm">
+          <HelpTOCNode Title="ComponentListItem Property " Url="html/P_PukkaCode_Selected_ComponentListItem.htm" />
+          <HelpTOCNode Title="SN Property " Url="html/P_PukkaCode_Selected_SN.htm" />
+          <HelpTOCNode Title="TestListItem Property " Url="html/P_PukkaCode_Selected_TestListItem.htm" />
+          <HelpTOCNode Title="TestListItem2 Property " Url="html/P_PukkaCode_Selected_TestListItem2.htm" />
+          <HelpTOCNode Title="XCoord Property " Url="html/P_PukkaCode_Selected_XCoord.htm" />
+          <HelpTOCNode Title="YCoord Property " Url="html/P_PukkaCode_Selected_YCoord.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a5d76745-6f93-4d84-a004-bfddc93e18cd" Title="Selected Fields" Url="html/Fields_T_PukkaCode_Selected.htm">
+          <HelpTOCNode Title="_ComponentListItem Field" Url="html/F_PukkaCode_Selected__ComponentListItem.htm" />
+          <HelpTOCNode Title="_SN Field" Url="html/F_PukkaCode_Selected__SN.htm" />
+          <HelpTOCNode Title="_TestListItem Field" Url="html/F_PukkaCode_Selected__TestListItem.htm" />
+          <HelpTOCNode Title="_TestListItem2 Field" Url="html/F_PukkaCode_Selected__TestListItem2.htm" />
+          <HelpTOCNode Title="_XCoord Field" Url="html/F_PukkaCode_Selected__XCoord.htm" />
+          <HelpTOCNode Title="_YCoord Field" Url="html/F_PukkaCode_Selected__YCoord.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="fcf87551-6662-4f8e-aea7-fa19dc5510a9" Title="SelectedPlot Class" Url="html/T_PukkaCode_SelectedPlot.htm">
+        <HelpTOCNode Title="SelectedPlot Constructor " Url="html/M_PukkaCode_SelectedPlot__ctor.htm" />
+        <HelpTOCNode Id="226c0fcf-15b3-4124-ac75-bd4b9e6e0f9c" Title="SelectedPlot Properties" Url="html/Properties_T_PukkaCode_SelectedPlot.htm">
+          <HelpTOCNode Title="beginX Property " Url="html/P_PukkaCode_SelectedPlot_beginX.htm" />
+          <HelpTOCNode Title="beginY Property " Url="html/P_PukkaCode_SelectedPlot_beginY.htm" />
+          <HelpTOCNode Title="coords Property " Url="html/P_PukkaCode_SelectedPlot_coords.htm" />
+          <HelpTOCNode Title="endX Property " Url="html/P_PukkaCode_SelectedPlot_endX.htm" />
+          <HelpTOCNode Title="endY Property " Url="html/P_PukkaCode_SelectedPlot_endY.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="cb86fcb7-21ea-4d38-b6d9-ceef7c7a5b44" Title="SelectedPlot Fields" Url="html/Fields_T_PukkaCode_SelectedPlot.htm">
+          <HelpTOCNode Title="_coords Field" Url="html/F_PukkaCode_SelectedPlot__coords.htm" />
+          <HelpTOCNode Title="_mouseDownX Field" Url="html/F_PukkaCode_SelectedPlot__mouseDownX.htm" />
+          <HelpTOCNode Title="_mouseDownY Field" Url="html/F_PukkaCode_SelectedPlot__mouseDownY.htm" />
+          <HelpTOCNode Title="_mouseUpX Field" Url="html/F_PukkaCode_SelectedPlot__mouseUpX.htm" />
+          <HelpTOCNode Title="_mouseUpY Field" Url="html/F_PukkaCode_SelectedPlot__mouseUpY.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6db2ac3b-b977-44c0-b691-85c17744bd94" Title="SourceFile Class" Url="html/T_PukkaCode_SourceFile.htm">
+        <HelpTOCNode Title="SourceFile Constructor " Url="html/M_PukkaCode_SourceFile__ctor.htm" />
+        <HelpTOCNode Id="cbdc9506-fcc5-4cca-bd37-a270ecb67aaa" Title="SourceFile Properties" Url="html/Properties_T_PukkaCode_SourceFile.htm">
+          <HelpTOCNode Title="Files Property " Url="html/P_PukkaCode_SourceFile_Files.htm" />
+          <HelpTOCNode Title="inputFile Property " Url="html/P_PukkaCode_SourceFile_inputFile.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6f1a916e-fa69-4636-ade2-a1dcc5e0a5b3" Title="SourceFile Fields" Url="html/Fields_T_PukkaCode_SourceFile.htm">
+          <HelpTOCNode Title="_Files Field" Url="html/F_PukkaCode_SourceFile__Files.htm" />
+          <HelpTOCNode Title="_inputFile Field" Url="html/F_PukkaCode_SourceFile__inputFile.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="dfeed532-c1ff-4e71-a8d6-4b84f610f1f3" Title="TdifExtension Class" Url="html/T_PukkaCode_TdifExtension.htm">
+        <HelpTOCNode Id="09f4663d-3be1-4b00-837f-e7c01d78e66b" Title="TdifExtension Methods" Url="html/Methods_T_PukkaCode_TdifExtension.htm">
+          <HelpTOCNode Title="Cp Method " Url="html/M_PukkaCode_TdifExtension_Cp.htm" />
+          <HelpTOCNode Title="Cpk Method " Url="html/M_PukkaCode_TdifExtension_Cpk.htm" />
+          <HelpTOCNode Title="firstQuartile Method " Url="html/M_PukkaCode_TdifExtension_firstQuartile.htm" />
+          <HelpTOCNode Title="getValidCount Method " Url="html/M_PukkaCode_TdifExtension_getValidCount.htm" />
+          <HelpTOCNode Title="GetValidDataList Method " Url="html/M_PukkaCode_TdifExtension_GetValidDataList.htm" />
+          <HelpTOCNode Title="Max Method " Url="html/M_PukkaCode_TdifExtension_Max.htm" />
+          <HelpTOCNode Title="Mean Method " Url="html/M_PukkaCode_TdifExtension_Mean.htm" />
+          <HelpTOCNode Title="Median Method " Url="html/M_PukkaCode_TdifExtension_Median.htm" />
+          <HelpTOCNode Title="Min Method " Url="html/M_PukkaCode_TdifExtension_Min.htm" />
+          <HelpTOCNode Title="minus4sigma Method " Url="html/M_PukkaCode_TdifExtension_minus4sigma.htm" />
+          <HelpTOCNode Title="minus5sigma Method " Url="html/M_PukkaCode_TdifExtension_minus5sigma.htm" />
+          <HelpTOCNode Title="minus6sigma Method " Url="html/M_PukkaCode_TdifExtension_minus6sigma.htm" />
+          <HelpTOCNode Title="PlottableDataList Method " Url="html/M_PukkaCode_TdifExtension_PlottableDataList.htm" />
+          <HelpTOCNode Title="plus4sigma Method " Url="html/M_PukkaCode_TdifExtension_plus4sigma.htm" />
+          <HelpTOCNode Title="plus5sigma Method " Url="html/M_PukkaCode_TdifExtension_plus5sigma.htm" />
+          <HelpTOCNode Title="plus6sigma Method " Url="html/M_PukkaCode_TdifExtension_plus6sigma.htm" />
+          <HelpTOCNode Title="Range Method " Url="html/M_PukkaCode_TdifExtension_Range.htm" />
+          <HelpTOCNode Title="StdDev Method " Url="html/M_PukkaCode_TdifExtension_StdDev.htm" />
+          <HelpTOCNode Title="TestedUnitsCount Method " Url="html/M_PukkaCode_TdifExtension_TestedUnitsCount.htm" />
+          <HelpTOCNode Title="thirdQuartile Method " Url="html/M_PukkaCode_TdifExtension_thirdQuartile.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="72b7b77d-5abf-4d04-9334-2cf8d677d55e" Title="Sample" Url="html/N_Sample.htm">
+      <HelpTOCNode Id="4b572a3b-8592-4ebf-b888-4bca7f6e0894" Title="DataGridViewProgressCell Class" Url="html/T_Sample_DataGridViewProgressCell.htm">
+        <HelpTOCNode Title="DataGridViewProgressCell Constructor " Url="html/M_Sample_DataGridViewProgressCell__ctor.htm" />
+        <HelpTOCNode Title="DataGridViewProgressCell Constructor " Url="html/M_Sample_DataGridViewProgressCell__cctor.htm" />
+        <HelpTOCNode Id="79a44425-c466-44db-a160-77c1e0989682" Title="DataGridViewProgressCell Methods" Url="html/Methods_T_Sample_DataGridViewProgressCell.htm">
+          <HelpTOCNode Title="GetFormattedValue Method " Url="html/M_Sample_DataGridViewProgressCell_GetFormattedValue.htm" />
+          <HelpTOCNode Title="Paint Method " Url="html/M_Sample_DataGridViewProgressCell_Paint.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="20f048be-b338-4eb9-b2bd-473048ef551e" Title="DataGridViewProgressCell Fields" Url="html/Fields_T_Sample_DataGridViewProgressCell.htm">
+          <HelpTOCNode Title="emptyImage Field" Url="html/F_Sample_DataGridViewProgressCell_emptyImage.htm" />
+          <HelpTOCNode Title="val Field" Url="html/F_Sample_DataGridViewProgressCell_val.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="231b773c-e9d3-4565-8170-648bcb180ca7" Title="DataGridViewProgressColumn Class" Url="html/T_Sample_DataGridViewProgressColumn.htm">
+        <HelpTOCNode Title="DataGridViewProgressColumn Constructor " Url="html/M_Sample_DataGridViewProgressColumn__ctor.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="16b9a387-5720-4ebd-9b50-be3f995f650b" Title="TdifDefinition" Url="html/N_TdifDefinition.htm">
+      <HelpTOCNode Id="6b9fd044-47c5-4318-8150-57de8d257267" Title="Bin Class" Url="html/T_TdifDefinition_Bin.htm">
+        <HelpTOCNode Title="Bin Constructor " Url="html/M_TdifDefinition_Bin__ctor.htm" />
+        <HelpTOCNode Id="607c11e4-cb2d-49fa-8761-621e8d0870de" Title="Bin Fields" Url="html/Fields_T_TdifDefinition_Bin.htm">
+          <HelpTOCNode Title="binPassConstValue Field" Url="html/F_TdifDefinition_Bin_binPassConstValue.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e2724203-d30d-400a-a8a4-7f94a35ed6be" Title="DataRecord Class" Url="html/T_TdifDefinition_DataRecord.htm">
+        <HelpTOCNode Title="DataRecord Constructor " Url="html/M_TdifDefinition_DataRecord__ctor.htm" />
+        <HelpTOCNode Id="aa009be7-5f23-4d4d-b41e-e26c5be5eb58" Title="DataRecord Properties" Url="html/Properties_T_TdifDefinition_DataRecord.htm">
+          <HelpTOCNode Title="Bin Property " Url="html/P_TdifDefinition_DataRecord_Bin.htm" />
+          <HelpTOCNode Title="Cat Property " Url="html/P_TdifDefinition_DataRecord_Cat.htm" />
+          <HelpTOCNode Title="SerialNumber Property " Url="html/P_TdifDefinition_DataRecord_SerialNumber.htm" />
+          <HelpTOCNode Title="Site Property " Url="html/P_TdifDefinition_DataRecord_Site.htm" />
+          <HelpTOCNode Title="TimeStamp Property " Url="html/P_TdifDefinition_DataRecord_TimeStamp.htm" />
+          <HelpTOCNode Title="UnitNumber Property " Url="html/P_TdifDefinition_DataRecord_UnitNumber.htm" />
+          <HelpTOCNode Title="Values Property " Url="html/P_TdifDefinition_DataRecord_Values.htm" />
+          <HelpTOCNode Title="Xcoord Property " Url="html/P_TdifDefinition_DataRecord_Xcoord.htm" />
+          <HelpTOCNode Title="Ycoord Property " Url="html/P_TdifDefinition_DataRecord_Ycoord.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="624f8775-0a2a-469d-a935-9df5194138a5" Title="FormAppearance Class" Url="html/T_TdifDefinition_FormAppearance.htm">
+        <HelpTOCNode Title="FormAppearance Constructor " Url="html/M_TdifDefinition_FormAppearance__ctor.htm" />
+        <HelpTOCNode Id="c4bff1b8-b4a8-4ba0-a4fd-70d96491fecd" Title="FormAppearance Fields" Url="html/Fields_T_TdifDefinition_FormAppearance.htm">
+          <HelpTOCNode Title="minXSize Field" Url="html/F_TdifDefinition_FormAppearance_minXSize.htm" />
+          <HelpTOCNode Title="minYSize Field" Url="html/F_TdifDefinition_FormAppearance_minYSize.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="da6a11ae-c57d-416b-bec2-0b63d2a8dbe6" Title="Tdif Class" Url="html/T_TdifDefinition_Tdif.htm">
+        <HelpTOCNode Title="Tdif Constructor " Url="html/M_TdifDefinition_Tdif__ctor.htm" />
+        <HelpTOCNode Id="fc2ed1f0-9901-4710-8bda-c1d06f4a521d" Title="Tdif Properties" Url="html/Properties_T_TdifDefinition_Tdif.htm">
+          <HelpTOCNode Title="countInvalid Property " Url="html/P_TdifDefinition_Tdif_countInvalid.htm" />
+          <HelpTOCNode Title="deviceName Property " Url="html/P_TdifDefinition_Tdif_deviceName.htm" />
+          <HelpTOCNode Title="lotNum Property " Url="html/P_TdifDefinition_Tdif_lotNum.htm" />
+          <HelpTOCNode Title="operatorID Property " Url="html/P_TdifDefinition_Tdif_operatorID.htm" />
+          <HelpTOCNode Title="programIssue Property " Url="html/P_TdifDefinition_Tdif_programIssue.htm" />
+          <HelpTOCNode Title="programName Property " Url="html/P_TdifDefinition_Tdif_programName.htm" />
+          <HelpTOCNode Title="programRevision Property " Url="html/P_TdifDefinition_Tdif_programRevision.htm" />
+          <HelpTOCNode Title="stationHead Property " Url="html/P_TdifDefinition_Tdif_stationHead.htm" />
+          <HelpTOCNode Title="stationID Property " Url="html/P_TdifDefinition_Tdif_stationID.htm" />
+          <HelpTOCNode Title="subLotNum Property " Url="html/P_TdifDefinition_Tdif_subLotNum.htm" />
+          <HelpTOCNode Title="tdifVer Property " Url="html/P_TdifDefinition_Tdif_tdifVer.htm" />
+          <HelpTOCNode Title="temperature Property " Url="html/P_TdifDefinition_Tdif_temperature.htm" />
+          <HelpTOCNode Title="testMode Property " Url="html/P_TdifDefinition_Tdif_testMode.htm" />
+          <HelpTOCNode Title="testType Property " Url="html/P_TdifDefinition_Tdif_testType.htm" />
+          <HelpTOCNode Title="utilRevision Property " Url="html/P_TdifDefinition_Tdif_utilRevision.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d3452132-1166-488e-a04d-c9da6390ef7d" Title="Tdif Methods" Url="html/Methods_T_TdifDefinition_Tdif.htm">
+          <HelpTOCNode Title="addDataRecord Method " Url="html/M_TdifDefinition_Tdif_addDataRecord.htm" />
+          <HelpTOCNode Title="addTestRecord Method " Url="html/M_TdifDefinition_Tdif_addTestRecord.htm" />
+          <HelpTOCNode Title="CoordsPresent Method " Url="html/M_TdifDefinition_Tdif_CoordsPresent.htm" />
+          <HelpTOCNode Title="FirstDieTime Method " Url="html/M_TdifDefinition_Tdif_FirstDieTime.htm" />
+          <HelpTOCNode Title="flip2DArray_Xaxis Method " Url="html/M_TdifDefinition_Tdif_flip2DArray_Xaxis.htm" />
+          <HelpTOCNode Title="flip2DArray_Yaxis Method " Url="html/M_TdifDefinition_Tdif_flip2DArray_Yaxis.htm" />
+          <HelpTOCNode Title="getBinList Method " Url="html/M_TdifDefinition_Tdif_getBinList.htm" />
+          <HelpTOCNode Title="getCountByBin Method " Url="html/M_TdifDefinition_Tdif_getCountByBin.htm" />
+          <HelpTOCNode Title="getCountByYield Method " Url="html/M_TdifDefinition_Tdif_getCountByYield.htm" />
+          <HelpTOCNode Title="getCountFailed Method " Url="html/M_TdifDefinition_Tdif_getCountFailed.htm" />
+          <HelpTOCNode Title="getHilim Method " Url="html/M_TdifDefinition_Tdif_getHilim.htm" />
+          <HelpTOCNode Title="getLolim Method " Url="html/M_TdifDefinition_Tdif_getLolim.htm" />
+          <HelpTOCNode Title="getMaxXCoord Method " Url="html/M_TdifDefinition_Tdif_getMaxXCoord.htm" />
+          <HelpTOCNode Title="getMaxYCoord Method " Url="html/M_TdifDefinition_Tdif_getMaxYCoord.htm" />
+          <HelpTOCNode Title="getMinXCoord Method " Url="html/M_TdifDefinition_Tdif_getMinXCoord.htm" />
+          <HelpTOCNode Title="getMinYCoord Method " Url="html/M_TdifDefinition_Tdif_getMinYCoord.htm" />
+          <HelpTOCNode Title="getTemperature Method " Url="html/M_TdifDefinition_Tdif_getTemperature.htm" />
+          <HelpTOCNode Title="getTestCount Method " Url="html/M_TdifDefinition_Tdif_getTestCount.htm" />
+          <HelpTOCNode Title="getTestData Method " Url="html/M_TdifDefinition_Tdif_getTestData.htm" />
+          <HelpTOCNode Title="getTestName Method " Url="html/M_TdifDefinition_Tdif_getTestName.htm" />
+          <HelpTOCNode Title="getTestUnit Method " Url="html/M_TdifDefinition_Tdif_getTestUnit.htm" />
+          <HelpTOCNode Title="getXYBinMap Method " Url="html/M_TdifDefinition_Tdif_getXYBinMap.htm" />
+          <HelpTOCNode Title="getXYTouchdowns Method " Url="html/M_TdifDefinition_Tdif_getXYTouchdowns.htm" />
+          <HelpTOCNode Title="getXYVal Method " Url="html/M_TdifDefinition_Tdif_getXYVal.htm" />
+          <HelpTOCNode Title="getXYValNullable Method " Url="html/M_TdifDefinition_Tdif_getXYValNullable.htm" />
+          <HelpTOCNode Title="LastDieTime Method " Url="html/M_TdifDefinition_Tdif_LastDieTime.htm" />
+          <HelpTOCNode Title="Load Method " Url="html/M_TdifDefinition_Tdif_Load.htm" />
+          <HelpTOCNode Title="makeComponentList Method " Url="html/M_TdifDefinition_Tdif_makeComponentList.htm" />
+          <HelpTOCNode Title="makeTestList Method " Url="html/M_TdifDefinition_Tdif_makeTestList.htm" />
+          <HelpTOCNode Title="ParseTdif Method " Url="html/M_TdifDefinition_Tdif_ParseTdif.htm" />
+          <HelpTOCNode Title="rotateLeft_2DArray Method " Url="html/M_TdifDefinition_Tdif_rotateLeft_2DArray.htm" />
+          <HelpTOCNode Title="showClickedComponentSN Method " Url="html/M_TdifDefinition_Tdif_showClickedComponentSN.htm" />
+          <HelpTOCNode Title="showClickedTest Method " Url="html/M_TdifDefinition_Tdif_showClickedTest.htm" />
+          <HelpTOCNode Title="TestExecuted Method " Url="html/M_TdifDefinition_Tdif_TestExecuted.htm" />
+          <HelpTOCNode Title="transpose_2DArray Method " Url="html/M_TdifDefinition_Tdif_transpose_2DArray.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b1dd389b-e68a-4e85-9a0d-9b352f7d33e5" Title="Tdif Fields" Url="html/Fields_T_TdifDefinition_Tdif.htm">
+          <HelpTOCNode Title="binColumn Field" Url="html/F_TdifDefinition_Tdif_binColumn.htm" />
+          <HelpTOCNode Title="catColumn Field" Url="html/F_TdifDefinition_Tdif_catColumn.htm" />
+          <HelpTOCNode Title="dataIdentifierColumn Field" Url="html/F_TdifDefinition_Tdif_dataIdentifierColumn.htm" />
+          <HelpTOCNode Title="dataRecordDict Field" Url="html/F_TdifDefinition_Tdif_dataRecordDict.htm" />
+          <HelpTOCNode Title="dataRecordIdentifier Field" Url="html/F_TdifDefinition_Tdif_dataRecordIdentifier.htm" />
+          <HelpTOCNode Title="dataRecords Field" Url="html/F_TdifDefinition_Tdif_dataRecords.htm" />
+          <HelpTOCNode Title="deviceNameColumn Field" Url="html/F_TdifDefinition_Tdif_deviceNameColumn.htm" />
+          <HelpTOCNode Title="formatColumn Field" Url="html/F_TdifDefinition_Tdif_formatColumn.htm" />
+          <HelpTOCNode Title="headRow1 Field" Url="html/F_TdifDefinition_Tdif_headRow1.htm" />
+          <HelpTOCNode Title="headRow2 Field" Url="html/F_TdifDefinition_Tdif_headRow2.htm" />
+          <HelpTOCNode Title="headRow3 Field" Url="html/F_TdifDefinition_Tdif_headRow3.htm" />
+          <HelpTOCNode Title="headRow4 Field" Url="html/F_TdifDefinition_Tdif_headRow4.htm" />
+          <HelpTOCNode Title="headTemperatureColumn Field" Url="html/F_TdifDefinition_Tdif_headTemperatureColumn.htm" />
+          <HelpTOCNode Title="hiLimColumn Field" Url="html/F_TdifDefinition_Tdif_hiLimColumn.htm" />
+          <HelpTOCNode Title="loLimColumn Field" Url="html/F_TdifDefinition_Tdif_loLimColumn.htm" />
+          <HelpTOCNode Title="lotNumColumn Field" Url="html/F_TdifDefinition_Tdif_lotNumColumn.htm" />
+          <HelpTOCNode Title="operatorIDColumn Field" Url="html/F_TdifDefinition_Tdif_operatorIDColumn.htm" />
+          <HelpTOCNode Title="programIssueColumn Field" Url="html/F_TdifDefinition_Tdif_programIssueColumn.htm" />
+          <HelpTOCNode Title="programNameColumn Field" Url="html/F_TdifDefinition_Tdif_programNameColumn.htm" />
+          <HelpTOCNode Title="programRevisionColumn Field" Url="html/F_TdifDefinition_Tdif_programRevisionColumn.htm" />
+          <HelpTOCNode Title="records Field" Url="html/F_TdifDefinition_Tdif_records.htm" />
+          <HelpTOCNode Title="rxInt Field" Url="html/F_TdifDefinition_Tdif_rxInt.htm" />
+          <HelpTOCNode Title="siteColumn Field" Url="html/F_TdifDefinition_Tdif_siteColumn.htm" />
+          <HelpTOCNode Title="specificationColumn Field" Url="html/F_TdifDefinition_Tdif_specificationColumn.htm" />
+          <HelpTOCNode Title="stationHeadColumn Field" Url="html/F_TdifDefinition_Tdif_stationHeadColumn.htm" />
+          <HelpTOCNode Title="stationIDColumn Field" Url="html/F_TdifDefinition_Tdif_stationIDColumn.htm" />
+          <HelpTOCNode Title="subLotNumColumn Field" Url="html/F_TdifDefinition_Tdif_subLotNumColumn.htm" />
+          <HelpTOCNode Title="tdifVersionColumn Field" Url="html/F_TdifDefinition_Tdif_tdifVersionColumn.htm" />
+          <HelpTOCNode Title="tdifVersionRow Field" Url="html/F_TdifDefinition_Tdif_tdifVersionRow.htm" />
+          <HelpTOCNode Title="temperatureColumn Field" Url="html/F_TdifDefinition_Tdif_temperatureColumn.htm" />
+          <HelpTOCNode Title="testModeColumn Field" Url="html/F_TdifDefinition_Tdif_testModeColumn.htm" />
+          <HelpTOCNode Title="testNameColumn Field" Url="html/F_TdifDefinition_Tdif_testNameColumn.htm" />
+          <HelpTOCNode Title="testNumColumn Field" Url="html/F_TdifDefinition_Tdif_testNumColumn.htm" />
+          <HelpTOCNode Title="testRecordDict Field" Url="html/F_TdifDefinition_Tdif_testRecordDict.htm" />
+          <HelpTOCNode Title="testRecordDictionary Field" Url="html/F_TdifDefinition_Tdif_testRecordDictionary.htm" />
+          <HelpTOCNode Title="testRecordIdentifier Field" Url="html/F_TdifDefinition_Tdif_testRecordIdentifier.htm" />
+          <HelpTOCNode Title="testTypeColumn Field" Url="html/F_TdifDefinition_Tdif_testTypeColumn.htm" />
+          <HelpTOCNode Title="timeStampColumn Field" Url="html/F_TdifDefinition_Tdif_timeStampColumn.htm" />
+          <HelpTOCNode Title="tnum Field" Url="html/F_TdifDefinition_Tdif_tnum.htm" />
+          <HelpTOCNode Title="unitColumn Field" Url="html/F_TdifDefinition_Tdif_unitColumn.htm" />
+          <HelpTOCNode Title="unitNumberColumn Field" Url="html/F_TdifDefinition_Tdif_unitNumberColumn.htm" />
+          <HelpTOCNode Title="utilityRevisionColumn Field" Url="html/F_TdifDefinition_Tdif_utilityRevisionColumn.htm" />
+          <HelpTOCNode Title="valuesStartColumn Field" Url="html/F_TdifDefinition_Tdif_valuesStartColumn.htm" />
+          <HelpTOCNode Title="xcoordColumn Field" Url="html/F_TdifDefinition_Tdif_xcoordColumn.htm" />
+          <HelpTOCNode Title="ycoordColumn Field" Url="html/F_TdifDefinition_Tdif_ycoordColumn.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="d244e583-d97e-407b-bfaa-dd32e3acbe47" Title="TestRecord Class" Url="html/T_TdifDefinition_TestRecord.htm">
+        <HelpTOCNode Title="TestRecord Constructor " Url="html/M_TdifDefinition_TestRecord__ctor.htm" />
+        <HelpTOCNode Id="c9e72569-f326-42af-8149-593b0ff3fb51" Title="TestRecord Properties" Url="html/Properties_T_TdifDefinition_TestRecord.htm">
+          <HelpTOCNode Title="Format Property " Url="html/P_TdifDefinition_TestRecord_Format.htm" />
+          <HelpTOCNode Title="HiLim Property " Url="html/P_TdifDefinition_TestRecord_HiLim.htm" />
+          <HelpTOCNode Title="Index Property " Url="html/P_TdifDefinition_TestRecord_Index.htm" />
+          <HelpTOCNode Title="LoLim Property " Url="html/P_TdifDefinition_TestRecord_LoLim.htm" />
+          <HelpTOCNode Title="Specification Property " Url="html/P_TdifDefinition_TestRecord_Specification.htm" />
+          <HelpTOCNode Title="Temperature Property " Url="html/P_TdifDefinition_TestRecord_Temperature.htm" />
+          <HelpTOCNode Title="TestName Property " Url="html/P_TdifDefinition_TestRecord_TestName.htm" />
+          <HelpTOCNode Title="TestNum Property " Url="html/P_TdifDefinition_TestRecord_TestNum.htm" />
+          <HelpTOCNode Title="Unit Property " Url="html/P_TdifDefinition_TestRecord_Unit.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

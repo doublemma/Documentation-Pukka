@@ -1,0 +1,901 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="addDataRecord method" Url="html/M_TdifDefinition_Tdif_addDataRecord.htm" />
+  <HelpKINode Title="addTestRecord method" Url="html/M_TdifDefinition_Tdif_addTestRecord.htm" />
+  <HelpKINode Title="adjustToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_adjustToolStripMenuItem.htm" />
+  <HelpKINode Title="allToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_allToolStripMenuItem.htm" />
+  <HelpKINode Title="allToolStripMenuItem_Click method" Url="html/M_PukkaCode_PukkaGUI_allToolStripMenuItem_Click.htm" />
+  <HelpKINode Title="annotation field" Url="html/F_PukkaCode_CorrelationForm_annotation.htm" />
+  <HelpKINode Title="balanceToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_balanceToolStripMenuItem.htm" />
+  <HelpKINode Title="balanceToolStripMenuItem_CheckedChanged method" Url="html/M_PukkaCode_PukkaGUI_balanceToolStripMenuItem_CheckedChanged.htm" />
+  <HelpKINode Title="beginX property" Url="html/P_PukkaCode_SelectedPlot_beginX.htm" />
+  <HelpKINode Title="beginY property" Url="html/P_PukkaCode_SelectedPlot_beginY.htm" />
+  <HelpKINode Title="Bin class">
+    <HelpKINode Title="Bin Class" Url="html/T_TdifDefinition_Bin.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TdifDefinition_Bin__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_TdifDefinition_Bin.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Bin field" Url="html/F_PukkaCode_Pareto_Bin.htm" />
+  <HelpKINode Title="Bin property" Url="html/P_TdifDefinition_DataRecord_Bin.htm" />
+  <HelpKINode Title="Bin.Bin constructor" Url="html/M_TdifDefinition_Bin__ctor.htm" />
+  <HelpKINode Title="Bin.binPassConstValue field" Url="html/F_TdifDefinition_Bin_binPassConstValue.htm" />
+  <HelpKINode Title="binColumn field" Url="html/F_TdifDefinition_Tdif_binColumn.htm" />
+  <HelpKINode Title="binPassConstValue field" Url="html/F_TdifDefinition_Bin_binPassConstValue.htm" />
+  <HelpKINode Title="bluesToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_bluesToolStripMenuItem.htm" />
+  <HelpKINode Title="bluesToolStripMenuItem_Click method" Url="html/M_PukkaCode_PukkaGUI_bluesToolStripMenuItem_Click.htm" />
+  <HelpKINode Title="BoxPlot field" Url="html/F_PukkaCode_PukkaGUI_BoxPlot.htm" />
+  <HelpKINode Title="BoxPlot method" Url="html/M_PukkaCode_PlotExtension_BoxPlot.htm" />
+  <HelpKINode Title="buttonCorrelation field" Url="html/F_PukkaCode_PukkaGUI_buttonCorrelation.htm" />
+  <HelpKINode Title="buttonCorrelation_Click method" Url="html/M_PukkaCode_PukkaGUI_buttonCorrelation_Click.htm" />
+  <HelpKINode Title="buttonPareto field" Url="html/F_PukkaCode_PukkaGUI_buttonPareto.htm" />
+  <HelpKINode Title="buttonPareto_Click method" Url="html/M_PukkaCode_PukkaGUI_buttonPareto_Click.htm" />
+  <HelpKINode Title="buttonPopUp field" Url="html/F_PukkaCode_PukkaPopUpGUI_buttonPopUp.htm" />
+  <HelpKINode Title="buttonPopUp_Click method" Url="html/M_PukkaCode_PukkaPopUpGUI_buttonPopUp_Click.htm" />
+  <HelpKINode Title="Cat property" Url="html/P_TdifDefinition_DataRecord_Cat.htm" />
+  <HelpKINode Title="catColumn field" Url="html/F_TdifDefinition_Tdif_catColumn.htm" />
+  <HelpKINode Title="checkBoxCountInvalid field" Url="html/F_PukkaCode_PukkaGUI_checkBoxCountInvalid.htm" />
+  <HelpKINode Title="CheckBoxCountInvalid_CheckStateChanged method" Url="html/M_PukkaCode_PukkaGUI_CheckBoxCountInvalid_CheckStateChanged.htm" />
+  <HelpKINode Title="checkBoxDisplayAll field" Url="html/F_PukkaCode_SampleForm_checkBoxDisplayAll.htm" />
+  <HelpKINode Title="checkBoxDisplayAll_CheckedChanged method" Url="html/M_PukkaCode_SampleForm_checkBoxDisplayAll_CheckedChanged.htm" />
+  <HelpKINode Title="colortheme field" Url="html/F_PukkaCode_PukkaGUI_colortheme.htm" />
+  <HelpKINode Title="colorThemesToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_colorThemesToolStripMenuItem.htm" />
+  <HelpKINode Title="comboBoxSourceFile field" Url="html/F_PukkaCode_PukkaGUI_comboBoxSourceFile.htm" />
+  <HelpKINode Title="ComboBoxSourceFile_SelectedIndexChanged method" Url="html/M_PukkaCode_PukkaGUI_ComboBoxSourceFile_SelectedIndexChanged.htm" />
+  <HelpKINode Title="componentDescLabel field" Url="html/F_PukkaCode_PukkaGUI_componentDescLabel.htm" />
+  <HelpKINode Title="ComponentListItem property" Url="html/P_PukkaCode_Selected_ComponentListItem.htm" />
+  <HelpKINode Title="components field">
+    <HelpKINode Title="CorrelationForm.components Field" Url="html/F_PukkaCode_CorrelationForm_components.htm" />
+    <HelpKINode Title="Pareto.components Field" Url="html/F_PukkaCode_Pareto_components.htm" />
+    <HelpKINode Title="PukkaGUI.components Field" Url="html/F_PukkaCode_PukkaGUI_components.htm" />
+    <HelpKINode Title="PukkaPopUpGUI.components Field" Url="html/F_PukkaCode_PukkaPopUpGUI_components.htm" />
+    <HelpKINode Title="SampleForm.components Field" Url="html/F_PukkaCode_SampleForm_components.htm" />
+  </HelpKINode>
+  <HelpKINode Title="coords property" Url="html/P_PukkaCode_SelectedPlot_coords.htm" />
+  <HelpKINode Title="CoordsPresent method" Url="html/M_TdifDefinition_Tdif_CoordsPresent.htm" />
+  <HelpKINode Title="coordToolTip field" Url="html/F_PukkaCode_PukkaGUI_coordToolTip.htm" />
+  <HelpKINode Title="CorrelationForm class">
+    <HelpKINode Title="CorrelationForm Class" Url="html/T_PukkaCode_CorrelationForm.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PukkaCode_CorrelationForm__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_PukkaCode_CorrelationForm.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PukkaCode_CorrelationForm.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CorrelationForm.annotation field" Url="html/F_PukkaCode_CorrelationForm_annotation.htm" />
+  <HelpKINode Title="CorrelationForm.components field" Url="html/F_PukkaCode_CorrelationForm_components.htm" />
+  <HelpKINode Title="CorrelationForm.CorrelationForm constructor" Url="html/M_PukkaCode_CorrelationForm__ctor.htm" />
+  <HelpKINode Title="CorrelationForm.correlationPlot field" Url="html/F_PukkaCode_CorrelationForm_correlationPlot.htm" />
+  <HelpKINode Title="CorrelationForm.dataListX field" Url="html/F_PukkaCode_CorrelationForm_dataListX.htm" />
+  <HelpKINode Title="CorrelationForm.dataListY field" Url="html/F_PukkaCode_CorrelationForm_dataListY.htm" />
+  <HelpKINode Title="CorrelationForm.Dispose method" Url="html/M_PukkaCode_CorrelationForm_Dispose.htm" />
+  <HelpKINode Title="CorrelationForm.InitializeComponent method" Url="html/M_PukkaCode_CorrelationForm_InitializeComponent.htm" />
+  <HelpKINode Title="CorrelationForm.Plot method" Url="html/M_PukkaCode_CorrelationForm_Plot.htm" />
+  <HelpKINode Title="correlationPlot field" Url="html/F_PukkaCode_CorrelationForm_correlationPlot.htm" />
+  <HelpKINode Title="Count field" Url="html/F_PukkaCode_Pareto_Count.htm" />
+  <HelpKINode Title="CountBin field" Url="html/F_PukkaCode_Pareto_CountBin.htm" />
+  <HelpKINode Title="CountByYield field" Url="html/F_PukkaCode_Pareto_CountByYield.htm" />
+  <HelpKINode Title="countInvalid field" Url="html/F_PukkaCode_PukkaGUI_countInvalid.htm" />
+  <HelpKINode Title="countInvalid property" Url="html/P_TdifDefinition_Tdif_countInvalid.htm" />
+  <HelpKINode Title="CountTests field" Url="html/F_PukkaCode_Pareto_CountTests.htm" />
+  <HelpKINode Title="Cp method" Url="html/M_PukkaCode_TdifExtension_Cp.htm" />
+  <HelpKINode Title="Cpk method" Url="html/M_PukkaCode_TdifExtension_Cpk.htm" />
+  <HelpKINode Title="cpkLabel field" Url="html/F_PukkaCode_PukkaGUI_cpkLabel.htm" />
+  <HelpKINode Title="cpk_textLabel field" Url="html/F_PukkaCode_PukkaGUI_cpk_textLabel.htm" />
+  <HelpKINode Title="cpLabel field" Url="html/F_PukkaCode_PukkaGUI_cpLabel.htm" />
+  <HelpKINode Title="cp_textLabel field" Url="html/F_PukkaCode_PukkaGUI_cp_textLabel.htm" />
+  <HelpKINode Title="dataGridView field" Url="html/F_PukkaCode_SampleForm_dataGridView.htm" />
+  <HelpKINode Title="dataGridViewCountByBin field" Url="html/F_PukkaCode_Pareto_dataGridViewCountByBin.htm" />
+  <HelpKINode Title="dataGridViewCountByYield field" Url="html/F_PukkaCode_Pareto_dataGridViewCountByYield.htm" />
+  <HelpKINode Title="dataGridViewImageColumn1 field" Url="html/F_PukkaCode_Pareto_dataGridViewImageColumn1.htm" />
+  <HelpKINode Title="dataGridViewInfo field" Url="html/F_PukkaCode_Pareto_dataGridViewInfo.htm" />
+  <HelpKINode Title="DataGridViewProgressCell class">
+    <HelpKINode Title="DataGridViewProgressCell Class" Url="html/T_Sample_DataGridViewProgressCell.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Sample_DataGridViewProgressCell__cctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Sample_DataGridViewProgressCell__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Sample_DataGridViewProgressCell.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Sample_DataGridViewProgressCell.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataGridViewProgressCell.DataGridViewProgressCell constructor">
+    <HelpKINode Title="DataGridViewProgressCell Constructor " Url="html/M_Sample_DataGridViewProgressCell__cctor.htm" />
+    <HelpKINode Title="DataGridViewProgressCell Constructor " Url="html/M_Sample_DataGridViewProgressCell__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataGridViewProgressCell.emptyImage field" Url="html/F_Sample_DataGridViewProgressCell_emptyImage.htm" />
+  <HelpKINode Title="DataGridViewProgressCell.GetFormattedValue method" Url="html/M_Sample_DataGridViewProgressCell_GetFormattedValue.htm" />
+  <HelpKINode Title="DataGridViewProgressCell.Paint method" Url="html/M_Sample_DataGridViewProgressCell_Paint.htm" />
+  <HelpKINode Title="DataGridViewProgressCell.val field" Url="html/F_Sample_DataGridViewProgressCell_val.htm" />
+  <HelpKINode Title="DataGridViewProgressColumn class">
+    <HelpKINode Title="DataGridViewProgressColumn Class" Url="html/T_Sample_DataGridViewProgressColumn.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Sample_DataGridViewProgressColumn__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataGridViewProgressColumn.DataGridViewProgressColumn constructor" Url="html/M_Sample_DataGridViewProgressColumn__ctor.htm" />
+  <HelpKINode Title="dataGridViewProgressColumn1 field" Url="html/F_PukkaCode_Pareto_dataGridViewProgressColumn1.htm" />
+  <HelpKINode Title="dataGridViewProgressColumn2 field" Url="html/F_PukkaCode_Pareto_dataGridViewProgressColumn2.htm" />
+  <HelpKINode Title="dataGridViewTestList field" Url="html/F_PukkaCode_Pareto_dataGridViewTestList.htm" />
+  <HelpKINode Title="dataIdentifierColumn field" Url="html/F_TdifDefinition_Tdif_dataIdentifierColumn.htm" />
+  <HelpKINode Title="dataListX field" Url="html/F_PukkaCode_CorrelationForm_dataListX.htm" />
+  <HelpKINode Title="dataListY field" Url="html/F_PukkaCode_CorrelationForm_dataListY.htm" />
+  <HelpKINode Title="DataRecord class">
+    <HelpKINode Title="DataRecord Class" Url="html/T_TdifDefinition_DataRecord.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TdifDefinition_DataRecord__ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TdifDefinition_DataRecord.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataRecord.Bin property" Url="html/P_TdifDefinition_DataRecord_Bin.htm" />
+  <HelpKINode Title="DataRecord.Cat property" Url="html/P_TdifDefinition_DataRecord_Cat.htm" />
+  <HelpKINode Title="DataRecord.DataRecord constructor" Url="html/M_TdifDefinition_DataRecord__ctor.htm" />
+  <HelpKINode Title="DataRecord.SerialNumber property" Url="html/P_TdifDefinition_DataRecord_SerialNumber.htm" />
+  <HelpKINode Title="DataRecord.Site property" Url="html/P_TdifDefinition_DataRecord_Site.htm" />
+  <HelpKINode Title="DataRecord.TimeStamp property" Url="html/P_TdifDefinition_DataRecord_TimeStamp.htm" />
+  <HelpKINode Title="DataRecord.UnitNumber property" Url="html/P_TdifDefinition_DataRecord_UnitNumber.htm" />
+  <HelpKINode Title="DataRecord.Values property" Url="html/P_TdifDefinition_DataRecord_Values.htm" />
+  <HelpKINode Title="DataRecord.Xcoord property" Url="html/P_TdifDefinition_DataRecord_Xcoord.htm" />
+  <HelpKINode Title="DataRecord.Ycoord property" Url="html/P_TdifDefinition_DataRecord_Ycoord.htm" />
+  <HelpKINode Title="dataRecordDict field" Url="html/F_TdifDefinition_Tdif_dataRecordDict.htm" />
+  <HelpKINode Title="dataRecordIdentifier field" Url="html/F_TdifDefinition_Tdif_dataRecordIdentifier.htm" />
+  <HelpKINode Title="dataRecords field" Url="html/F_TdifDefinition_Tdif_dataRecords.htm" />
+  <HelpKINode Title="dataToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_dataToolStripMenuItem.htm" />
+  <HelpKINode Title="Delete_Click method" Url="html/M_PukkaCode_PukkaPopUpGUI_Delete_Click.htm" />
+  <HelpKINode Title="deviceName property" Url="html/P_TdifDefinition_Tdif_deviceName.htm" />
+  <HelpKINode Title="deviceNameColumn field" Url="html/F_TdifDefinition_Tdif_deviceNameColumn.htm" />
+  <HelpKINode Title="DisplayButton field" Url="html/F_PukkaCode_PukkaPopUpGUI_DisplayButton.htm" />
+  <HelpKINode Title="DisplayButton_Click method" Url="html/M_PukkaCode_PukkaPopUpGUI_DisplayButton_Click.htm" />
+  <HelpKINode Title="Dispose method">
+    <HelpKINode Title="CorrelationForm.Dispose Method " Url="html/M_PukkaCode_CorrelationForm_Dispose.htm" />
+    <HelpKINode Title="Pareto.Dispose Method " Url="html/M_PukkaCode_Pareto_Dispose.htm" />
+    <HelpKINode Title="PukkaGUI.Dispose Method " Url="html/M_PukkaCode_PukkaGUI_Dispose.htm" />
+    <HelpKINode Title="PukkaPopUpGUI.Dispose Method " Url="html/M_PukkaCode_PukkaPopUpGUI_Dispose.htm" />
+    <HelpKINode Title="SampleForm.Dispose Method " Url="html/M_PukkaCode_SampleForm_Dispose.htm" />
+  </HelpKINode>
+  <HelpKINode Title="emptyImage field" Url="html/F_Sample_DataGridViewProgressCell_emptyImage.htm" />
+  <HelpKINode Title="endX property" Url="html/P_PukkaCode_SelectedPlot_endX.htm" />
+  <HelpKINode Title="endY property" Url="html/P_PukkaCode_SelectedPlot_endY.htm" />
+  <HelpKINode Title="exitToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_exitToolStripMenuItem.htm" />
+  <HelpKINode Title="exitToolStripMenuItem_Click method" Url="html/M_PukkaCode_PukkaGUI_exitToolStripMenuItem_Click.htm" />
+  <HelpKINode Title="Files property" Url="html/P_PukkaCode_SourceFile_Files.htm" />
+  <HelpKINode Title="fileToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_fileToolStripMenuItem.htm" />
+  <HelpKINode Title="findCoord method" Url="html/M_PukkaCode_PlotExtension_findCoord.htm" />
+  <HelpKINode Title="FirstDieTime method" Url="html/M_TdifDefinition_Tdif_FirstDieTime.htm" />
+  <HelpKINode Title="firstQuartile method" Url="html/M_PukkaCode_TdifExtension_firstQuartile.htm" />
+  <HelpKINode Title="flip2DArray_Xaxis method" Url="html/M_TdifDefinition_Tdif_flip2DArray_Xaxis.htm" />
+  <HelpKINode Title="flip2DArray_Yaxis method" Url="html/M_TdifDefinition_Tdif_flip2DArray_Yaxis.htm" />
+  <HelpKINode Title="FormAppearance class">
+    <HelpKINode Title="FormAppearance Class" Url="html/T_TdifDefinition_FormAppearance.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TdifDefinition_FormAppearance__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_TdifDefinition_FormAppearance.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FormAppearance.FormAppearance constructor" Url="html/M_TdifDefinition_FormAppearance__ctor.htm" />
+  <HelpKINode Title="FormAppearance.minXSize field" Url="html/F_TdifDefinition_FormAppearance_minXSize.htm" />
+  <HelpKINode Title="FormAppearance.minYSize field" Url="html/F_TdifDefinition_FormAppearance_minYSize.htm" />
+  <HelpKINode Title="Format property" Url="html/P_TdifDefinition_TestRecord_Format.htm" />
+  <HelpKINode Title="formatColumn field" Url="html/F_TdifDefinition_Tdif_formatColumn.htm" />
+  <HelpKINode Title="formsPlot1_MouseClicked method" Url="html/M_PukkaCode_PukkaGUI_formsPlot1_MouseClicked.htm" />
+  <HelpKINode Title="formsPlot1_MouseDoubleClicked method" Url="html/M_PukkaCode_PukkaGUI_formsPlot1_MouseDoubleClicked.htm" />
+  <HelpKINode Title="GenerateColor method" Url="html/M_PukkaCode_PlotExtension_GenerateColor.htm" />
+  <HelpKINode Title="getBinList method" Url="html/M_TdifDefinition_Tdif_getBinList.htm" />
+  <HelpKINode Title="getCountByBin method" Url="html/M_TdifDefinition_Tdif_getCountByBin.htm" />
+  <HelpKINode Title="getCountByYield method" Url="html/M_TdifDefinition_Tdif_getCountByYield.htm" />
+  <HelpKINode Title="getCountFailed method" Url="html/M_TdifDefinition_Tdif_getCountFailed.htm" />
+  <HelpKINode Title="GetFormattedValue method" Url="html/M_Sample_DataGridViewProgressCell_GetFormattedValue.htm" />
+  <HelpKINode Title="getHilim method" Url="html/M_TdifDefinition_Tdif_getHilim.htm" />
+  <HelpKINode Title="getLolim method" Url="html/M_TdifDefinition_Tdif_getLolim.htm" />
+  <HelpKINode Title="getMaxXCoord method" Url="html/M_TdifDefinition_Tdif_getMaxXCoord.htm" />
+  <HelpKINode Title="getMaxYCoord method" Url="html/M_TdifDefinition_Tdif_getMaxYCoord.htm" />
+  <HelpKINode Title="getMinXCoord method" Url="html/M_TdifDefinition_Tdif_getMinXCoord.htm" />
+  <HelpKINode Title="getMinYCoord method" Url="html/M_TdifDefinition_Tdif_getMinYCoord.htm" />
+  <HelpKINode Title="getTemperature method" Url="html/M_TdifDefinition_Tdif_getTemperature.htm" />
+  <HelpKINode Title="getTestCount method" Url="html/M_TdifDefinition_Tdif_getTestCount.htm" />
+  <HelpKINode Title="getTestData method" Url="html/M_TdifDefinition_Tdif_getTestData.htm" />
+  <HelpKINode Title="getTestName method" Url="html/M_TdifDefinition_Tdif_getTestName.htm" />
+  <HelpKINode Title="getTestUnit method" Url="html/M_TdifDefinition_Tdif_getTestUnit.htm" />
+  <HelpKINode Title="getValidCount method" Url="html/M_PukkaCode_TdifExtension_getValidCount.htm" />
+  <HelpKINode Title="GetValidDataList method" Url="html/M_PukkaCode_TdifExtension_GetValidDataList.htm" />
+  <HelpKINode Title="getXYBinMap method" Url="html/M_TdifDefinition_Tdif_getXYBinMap.htm" />
+  <HelpKINode Title="getXYTouchdowns method" Url="html/M_TdifDefinition_Tdif_getXYTouchdowns.htm" />
+  <HelpKINode Title="getXYVal method" Url="html/M_TdifDefinition_Tdif_getXYVal.htm" />
+  <HelpKINode Title="getXYValNullable method" Url="html/M_TdifDefinition_Tdif_getXYValNullable.htm" />
+  <HelpKINode Title="graphsToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_graphsToolStripMenuItem.htm" />
+  <HelpKINode Title="greensToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_greensToolStripMenuItem.htm" />
+  <HelpKINode Title="groupBoxComponents field" Url="html/F_PukkaCode_PukkaGUI_groupBoxComponents.htm" />
+  <HelpKINode Title="groupBoxStatistics field" Url="html/F_PukkaCode_PukkaGUI_groupBoxStatistics.htm" />
+  <HelpKINode Title="headRow1 field" Url="html/F_TdifDefinition_Tdif_headRow1.htm" />
+  <HelpKINode Title="headRow2 field" Url="html/F_TdifDefinition_Tdif_headRow2.htm" />
+  <HelpKINode Title="headRow3 field" Url="html/F_TdifDefinition_Tdif_headRow3.htm" />
+  <HelpKINode Title="headRow4 field" Url="html/F_TdifDefinition_Tdif_headRow4.htm" />
+  <HelpKINode Title="headTemperatureColumn field" Url="html/F_TdifDefinition_Tdif_headTemperatureColumn.htm" />
+  <HelpKINode Title="HeatMap field" Url="html/F_PukkaCode_PukkaGUI_HeatMap.htm" />
+  <HelpKINode Title="HeatMapByTest method" Url="html/M_PukkaCode_PlotExtension_HeatMapByTest.htm" />
+  <HelpKINode Title="heatMapCoordinateCorrection field" Url="html/F_PukkaCode_PukkaGUI_heatMapCoordinateCorrection.htm" />
+  <HelpKINode Title="HeatMapPassFail method" Url="html/M_PukkaCode_PlotExtension_HeatMapPassFail.htm" />
+  <HelpKINode Title="HeatMapTouchdowns method" Url="html/M_PukkaCode_PlotExtension_HeatMapTouchdowns.htm" />
+  <HelpKINode Title="highlightSelectedAreaToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_highlightSelectedAreaToolStripMenuItem.htm" />
+  <HelpKINode Title="HiLim property" Url="html/P_TdifDefinition_TestRecord_HiLim.htm" />
+  <HelpKINode Title="hiLimColumn field" Url="html/F_TdifDefinition_Tdif_hiLimColumn.htm" />
+  <HelpKINode Title="hilimLabel field" Url="html/F_PukkaCode_PukkaGUI_hilimLabel.htm" />
+  <HelpKINode Title="hilim_textLabel field" Url="html/F_PukkaCode_PukkaGUI_hilim_textLabel.htm" />
+  <HelpKINode Title="Histogram field" Url="html/F_PukkaCode_PukkaGUI_Histogram.htm" />
+  <HelpKINode Title="Histogram_MouseDown method" Url="html/M_PukkaCode_PukkaGUI_Histogram_MouseDown.htm" />
+  <HelpKINode Title="Histogram_MouseUp method" Url="html/M_PukkaCode_PukkaGUI_Histogram_MouseUp.htm" />
+  <HelpKINode Title="index field" Url="html/F_PukkaCode_PlotExtension_index.htm" />
+  <HelpKINode Title="Index property" Url="html/P_TdifDefinition_TestRecord_Index.htm" />
+  <HelpKINode Title="InitializeComponent method">
+    <HelpKINode Title="CorrelationForm.InitializeComponent Method " Url="html/M_PukkaCode_CorrelationForm_InitializeComponent.htm" />
+    <HelpKINode Title="Pareto.InitializeComponent Method " Url="html/M_PukkaCode_Pareto_InitializeComponent.htm" />
+    <HelpKINode Title="PukkaGUI.InitializeComponent Method " Url="html/M_PukkaCode_PukkaGUI_InitializeComponent.htm" />
+    <HelpKINode Title="PukkaPopUpGUI.InitializeComponent Method " Url="html/M_PukkaCode_PukkaPopUpGUI_InitializeComponent.htm" />
+    <HelpKINode Title="SampleForm.InitializeComponent Method " Url="html/M_PukkaCode_SampleForm_InitializeComponent.htm" />
+  </HelpKINode>
+  <HelpKINode Title="initPukka method" Url="html/M_PukkaCode_PukkaGUI_initPukka.htm" />
+  <HelpKINode Title="inputFile property" Url="html/P_PukkaCode_SourceFile_inputFile.htm" />
+  <HelpKINode Title="isInRange method" Url="html/M_PukkaCode_PukkaGUI_isInRange.htm" />
+  <HelpKINode Title="labelBin field" Url="html/F_PukkaCode_SampleForm_labelBin.htm" />
+  <HelpKINode Title="labelCoord field" Url="html/F_PukkaCode_SampleForm_labelCoord.htm" />
+  <HelpKINode Title="labelDeviceNumber field" Url="html/F_PukkaCode_SampleForm_labelDeviceNumber.htm" />
+  <HelpKINode Title="labelDragDrop field" Url="html/F_PukkaCode_PukkaPopUpGUI_labelDragDrop.htm" />
+  <HelpKINode Title="labelPath field" Url="html/F_PukkaCode_PukkaPopUpGUI_labelPath.htm" />
+  <HelpKINode Title="labelPF field" Url="html/F_PukkaCode_SampleForm_labelPF.htm" />
+  <HelpKINode Title="labelSiteNumber field" Url="html/F_PukkaCode_SampleForm_labelSiteNumber.htm" />
+  <HelpKINode Title="labelTextBin field" Url="html/F_PukkaCode_SampleForm_labelTextBin.htm" />
+  <HelpKINode Title="labelTextCoord field" Url="html/F_PukkaCode_SampleForm_labelTextCoord.htm" />
+  <HelpKINode Title="labelTextDevice field" Url="html/F_PukkaCode_SampleForm_labelTextDevice.htm" />
+  <HelpKINode Title="labelTextSite field" Url="html/F_PukkaCode_SampleForm_labelTextSite.htm" />
+  <HelpKINode Title="LastDieTime method" Url="html/M_TdifDefinition_Tdif_LastDieTime.htm" />
+  <HelpKINode Title="ListBox1_MouseDoubleClick method" Url="html/M_PukkaCode_PukkaGUI_ListBox1_MouseDoubleClick.htm" />
+  <HelpKINode Title="listBoxChooseFilePopUp field" Url="html/F_PukkaCode_PukkaPopUpGUI_listBoxChooseFilePopUp.htm" />
+  <HelpKINode Title="listBoxChooseFilePopUp_DragDrop method" Url="html/M_PukkaCode_PukkaPopUpGUI_listBoxChooseFilePopUp_DragDrop.htm" />
+  <HelpKINode Title="listBoxChooseFilePopUp_DragEnter method" Url="html/M_PukkaCode_PukkaPopUpGUI_listBoxChooseFilePopUp_DragEnter.htm" />
+  <HelpKINode Title="listBoxChooseFilePopUp_KeyDown method" Url="html/M_PukkaCode_PukkaPopUpGUI_listBoxChooseFilePopUp_KeyDown.htm" />
+  <HelpKINode Title="listBoxChooseFilePopUp_KeyPress method" Url="html/M_PukkaCode_PukkaPopUpGUI_listBoxChooseFilePopUp_KeyPress.htm" />
+  <HelpKINode Title="listBoxChooseFilePopUp_MouseMove method" Url="html/M_PukkaCode_PukkaPopUpGUI_listBoxChooseFilePopUp_MouseMove.htm" />
+  <HelpKINode Title="listBoxComponent field" Url="html/F_PukkaCode_PukkaGUI_listBoxComponent.htm" />
+  <HelpKINode Title="listBoxComponent_DoubleClick method" Url="html/M_PukkaCode_PukkaGUI_listBoxComponent_DoubleClick.htm" />
+  <HelpKINode Title="listBoxTestList field" Url="html/F_PukkaCode_PukkaGUI_listBoxTestList.htm" />
+  <HelpKINode Title="listBoxTestList_SelectedIndexChanged method" Url="html/M_PukkaCode_PukkaGUI_listBoxTestList_SelectedIndexChanged.htm" />
+  <HelpKINode Title="Load method" Url="html/M_TdifDefinition_Tdif_Load.htm" />
+  <HelpKINode Title="LoLim property" Url="html/P_TdifDefinition_TestRecord_LoLim.htm" />
+  <HelpKINode Title="loLimColumn field" Url="html/F_TdifDefinition_Tdif_loLimColumn.htm" />
+  <HelpKINode Title="lolimLabel field" Url="html/F_PukkaCode_PukkaGUI_lolimLabel.htm" />
+  <HelpKINode Title="lolim_textLabel field" Url="html/F_PukkaCode_PukkaGUI_lolim_textLabel.htm" />
+  <HelpKINode Title="lotNum property" Url="html/P_TdifDefinition_Tdif_lotNum.htm" />
+  <HelpKINode Title="lotNumColumn field" Url="html/F_TdifDefinition_Tdif_lotNumColumn.htm" />
+  <HelpKINode Title="Main method" Url="html/M_PukkaCode_PukkaPopUpGUI_Program_Main.htm" />
+  <HelpKINode Title="makeComponentList method" Url="html/M_TdifDefinition_Tdif_makeComponentList.htm" />
+  <HelpKINode Title="makeComponentTable method" Url="html/M_PukkaCode_SampleForm_makeComponentTable.htm" />
+  <HelpKINode Title="makeTestList method" Url="html/M_TdifDefinition_Tdif_makeTestList.htm" />
+  <HelpKINode Title="Max method" Url="html/M_PukkaCode_TdifExtension_Max.htm" />
+  <HelpKINode Title="maxLabel field" Url="html/F_PukkaCode_PukkaGUI_maxLabel.htm" />
+  <HelpKINode Title="maxX field" Url="html/F_PukkaCode_PukkaGUI_maxX.htm" />
+  <HelpKINode Title="maxY field" Url="html/F_PukkaCode_PukkaGUI_maxY.htm" />
+  <HelpKINode Title="max_textLabel field" Url="html/F_PukkaCode_PukkaGUI_max_textLabel.htm" />
+  <HelpKINode Title="Mean method" Url="html/M_PukkaCode_TdifExtension_Mean.htm" />
+  <HelpKINode Title="meanLabel field" Url="html/F_PukkaCode_PukkaGUI_meanLabel.htm" />
+  <HelpKINode Title="mean_textLabel field" Url="html/F_PukkaCode_PukkaGUI_mean_textLabel.htm" />
+  <HelpKINode Title="Median method" Url="html/M_PukkaCode_TdifExtension_Median.htm" />
+  <HelpKINode Title="medianLabel field" Url="html/F_PukkaCode_PukkaGUI_medianLabel.htm" />
+  <HelpKINode Title="median_textLabel field" Url="html/F_PukkaCode_PukkaGUI_median_textLabel.htm" />
+  <HelpKINode Title="menuStripFile field" Url="html/F_PukkaCode_PukkaGUI_menuStripFile.htm" />
+  <HelpKINode Title="Min method" Url="html/M_PukkaCode_TdifExtension_Min.htm" />
+  <HelpKINode Title="minLabel field" Url="html/F_PukkaCode_PukkaGUI_minLabel.htm" />
+  <HelpKINode Title="minus4sigma method" Url="html/M_PukkaCode_TdifExtension_minus4sigma.htm" />
+  <HelpKINode Title="minus4sigmaLabel field" Url="html/F_PukkaCode_PukkaGUI_minus4sigmaLabel.htm" />
+  <HelpKINode Title="minus4sigma_textLabel field" Url="html/F_PukkaCode_PukkaGUI_minus4sigma_textLabel.htm" />
+  <HelpKINode Title="minus5sigma method" Url="html/M_PukkaCode_TdifExtension_minus5sigma.htm" />
+  <HelpKINode Title="minus5sigmaLabel field" Url="html/F_PukkaCode_PukkaGUI_minus5sigmaLabel.htm" />
+  <HelpKINode Title="minus5sigma_textLabel field" Url="html/F_PukkaCode_PukkaGUI_minus5sigma_textLabel.htm" />
+  <HelpKINode Title="minus6sigma method" Url="html/M_PukkaCode_TdifExtension_minus6sigma.htm" />
+  <HelpKINode Title="minus6sigmaLabel field" Url="html/F_PukkaCode_PukkaGUI_minus6sigmaLabel.htm" />
+  <HelpKINode Title="minus6sigma_textLabel field" Url="html/F_PukkaCode_PukkaGUI_minus6sigma_textLabel.htm" />
+  <HelpKINode Title="minX field" Url="html/F_PukkaCode_PukkaGUI_minX.htm" />
+  <HelpKINode Title="minXSize field" Url="html/F_TdifDefinition_FormAppearance_minXSize.htm" />
+  <HelpKINode Title="minY field" Url="html/F_PukkaCode_PukkaGUI_minY.htm" />
+  <HelpKINode Title="minYSize field" Url="html/F_TdifDefinition_FormAppearance_minYSize.htm" />
+  <HelpKINode Title="min_textLabel field" Url="html/F_PukkaCode_PukkaGUI_min_textLabel.htm" />
+  <HelpKINode Title="oneToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_oneToolStripMenuItem.htm" />
+  <HelpKINode Title="oneToolStripMenuItem_Click method" Url="html/M_PukkaCode_PukkaGUI_oneToolStripMenuItem_Click.htm" />
+  <HelpKINode Title="openFileDialogMenuStrip field" Url="html/F_PukkaCode_PukkaGUI_openFileDialogMenuStrip.htm" />
+  <HelpKINode Title="openFileDialogTdif field" Url="html/F_PukkaCode_PukkaPopUpGUI_openFileDialogTdif.htm" />
+  <HelpKINode Title="openToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_openToolStripMenuItem.htm" />
+  <HelpKINode Title="openToolStripMenuItem_Click method" Url="html/M_PukkaCode_PukkaGUI_openToolStripMenuItem_Click.htm" />
+  <HelpKINode Title="operatorID property" Url="html/P_TdifDefinition_Tdif_operatorID.htm" />
+  <HelpKINode Title="operatorIDColumn field" Url="html/F_TdifDefinition_Tdif_operatorIDColumn.htm" />
+  <HelpKINode Title="Paint method" Url="html/M_Sample_DataGridViewProgressCell_Paint.htm" />
+  <HelpKINode Title="panel1 field" Url="html/F_PukkaCode_PukkaGUI_panel1.htm" />
+  <HelpKINode Title="panelDragDrop field" Url="html/F_PukkaCode_PukkaPopUpGUI_panelDragDrop.htm" />
+  <HelpKINode Title="ParameterInfo field" Url="html/F_PukkaCode_Pareto_ParameterInfo.htm" />
+  <HelpKINode Title="Pareto class">
+    <HelpKINode Title="Pareto Class" Url="html/T_PukkaCode_Pareto.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PukkaCode_Pareto__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_PukkaCode_Pareto.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PukkaCode_Pareto.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Pareto.Bin field" Url="html/F_PukkaCode_Pareto_Bin.htm" />
+  <HelpKINode Title="Pareto.components field" Url="html/F_PukkaCode_Pareto_components.htm" />
+  <HelpKINode Title="Pareto.Count field" Url="html/F_PukkaCode_Pareto_Count.htm" />
+  <HelpKINode Title="Pareto.CountBin field" Url="html/F_PukkaCode_Pareto_CountBin.htm" />
+  <HelpKINode Title="Pareto.CountByYield field" Url="html/F_PukkaCode_Pareto_CountByYield.htm" />
+  <HelpKINode Title="Pareto.CountTests field" Url="html/F_PukkaCode_Pareto_CountTests.htm" />
+  <HelpKINode Title="Pareto.dataGridViewCountByBin field" Url="html/F_PukkaCode_Pareto_dataGridViewCountByBin.htm" />
+  <HelpKINode Title="Pareto.dataGridViewCountByYield field" Url="html/F_PukkaCode_Pareto_dataGridViewCountByYield.htm" />
+  <HelpKINode Title="Pareto.dataGridViewImageColumn1 field" Url="html/F_PukkaCode_Pareto_dataGridViewImageColumn1.htm" />
+  <HelpKINode Title="Pareto.dataGridViewInfo field" Url="html/F_PukkaCode_Pareto_dataGridViewInfo.htm" />
+  <HelpKINode Title="Pareto.dataGridViewProgressColumn1 field" Url="html/F_PukkaCode_Pareto_dataGridViewProgressColumn1.htm" />
+  <HelpKINode Title="Pareto.dataGridViewProgressColumn2 field" Url="html/F_PukkaCode_Pareto_dataGridViewProgressColumn2.htm" />
+  <HelpKINode Title="Pareto.dataGridViewTestList field" Url="html/F_PukkaCode_Pareto_dataGridViewTestList.htm" />
+  <HelpKINode Title="Pareto.Dispose method" Url="html/M_PukkaCode_Pareto_Dispose.htm" />
+  <HelpKINode Title="Pareto.InitializeComponent method" Url="html/M_PukkaCode_Pareto_InitializeComponent.htm" />
+  <HelpKINode Title="Pareto.ParameterInfo field" Url="html/F_PukkaCode_Pareto_ParameterInfo.htm" />
+  <HelpKINode Title="Pareto.Pareto constructor" Url="html/M_PukkaCode_Pareto__ctor.htm" />
+  <HelpKINode Title="Pareto.Ratio field" Url="html/F_PukkaCode_Pareto_Ratio.htm" />
+  <HelpKINode Title="Pareto.ratioByTest field" Url="html/F_PukkaCode_Pareto_ratioByTest.htm" />
+  <HelpKINode Title="Pareto.RatioYield field" Url="html/F_PukkaCode_Pareto_RatioYield.htm" />
+  <HelpKINode Title="Pareto.tableLayoutPareto field" Url="html/F_PukkaCode_Pareto_tableLayoutPareto.htm" />
+  <HelpKINode Title="Pareto.TestName field" Url="html/F_PukkaCode_Pareto_TestName.htm" />
+  <HelpKINode Title="Pareto.TestNumber field" Url="html/F_PukkaCode_Pareto_TestNumber.htm" />
+  <HelpKINode Title="Pareto.ValueInfo field" Url="html/F_PukkaCode_Pareto_ValueInfo.htm" />
+  <HelpKINode Title="Pareto.Yield field" Url="html/F_PukkaCode_Pareto_Yield.htm" />
+  <HelpKINode Title="ParseTdif method" Url="html/M_TdifDefinition_Tdif_ParseTdif.htm" />
+  <HelpKINode Title="pictureBox1 field" Url="html/F_PukkaCode_PukkaPopUpGUI_pictureBox1.htm" />
+  <HelpKINode Title="Plot method">
+    <HelpKINode Title="CorrelationForm.Plot Method " Url="html/M_PukkaCode_CorrelationForm_Plot.htm" />
+    <HelpKINode Title="PukkaGUI.Plot Method " Url="html/M_PukkaCode_PukkaGUI_Plot.htm" />
+  </HelpKINode>
+  <HelpKINode Title="plotColor field" Url="html/F_PukkaCode_PlotExtension_plotColor.htm" />
+  <HelpKINode Title="PlotExtension class">
+    <HelpKINode Title="PlotExtension Class" Url="html/T_PukkaCode_PlotExtension.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_PukkaCode_PlotExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PukkaCode_PlotExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PlotExtension.BoxPlot method" Url="html/M_PukkaCode_PlotExtension_BoxPlot.htm" />
+  <HelpKINode Title="PlotExtension.findCoord method" Url="html/M_PukkaCode_PlotExtension_findCoord.htm" />
+  <HelpKINode Title="PlotExtension.GenerateColor method" Url="html/M_PukkaCode_PlotExtension_GenerateColor.htm" />
+  <HelpKINode Title="PlotExtension.HeatMapByTest method" Url="html/M_PukkaCode_PlotExtension_HeatMapByTest.htm" />
+  <HelpKINode Title="PlotExtension.HeatMapPassFail method" Url="html/M_PukkaCode_PlotExtension_HeatMapPassFail.htm" />
+  <HelpKINode Title="PlotExtension.HeatMapTouchdowns method" Url="html/M_PukkaCode_PlotExtension_HeatMapTouchdowns.htm" />
+  <HelpKINode Title="PlotExtension.index field" Url="html/F_PukkaCode_PlotExtension_index.htm" />
+  <HelpKINode Title="PlotExtension.plotColor field" Url="html/F_PukkaCode_PlotExtension_plotColor.htm" />
+  <HelpKINode Title="PlotExtension.PlotHistogram method" Url="html/M_PukkaCode_PlotExtension_PlotHistogram.htm" />
+  <HelpKINode Title="PlotExtension.randomColors field" Url="html/F_PukkaCode_PlotExtension_randomColors.htm" />
+  <HelpKINode Title="PlotExtension.RunChart method" Url="html/M_PukkaCode_PlotExtension_RunChart.htm" />
+  <HelpKINode Title="PlotExtension.SetColor method" Url="html/M_PukkaCode_PlotExtension_SetColor.htm" />
+  <HelpKINode Title="PlotHeatMap_MouseMove method" Url="html/M_PukkaCode_PukkaGUI_PlotHeatMap_MouseMove.htm" />
+  <HelpKINode Title="PlotHistogram method" Url="html/M_PukkaCode_PlotExtension_PlotHistogram.htm" />
+  <HelpKINode Title="plottableCorrelX field" Url="html/F_PukkaCode_PukkaGUI_plottableCorrelX.htm" />
+  <HelpKINode Title="plottableCorrelY field" Url="html/F_PukkaCode_PukkaGUI_plottableCorrelY.htm" />
+  <HelpKINode Title="PlottableDataList method" Url="html/M_PukkaCode_TdifExtension_PlottableDataList.htm" />
+  <HelpKINode Title="plus4sigma method" Url="html/M_PukkaCode_TdifExtension_plus4sigma.htm" />
+  <HelpKINode Title="plus4sigmaLabel field" Url="html/F_PukkaCode_PukkaGUI_plus4sigmaLabel.htm" />
+  <HelpKINode Title="plus4sigma_textLabel field" Url="html/F_PukkaCode_PukkaGUI_plus4sigma_textLabel.htm" />
+  <HelpKINode Title="plus5sigma method" Url="html/M_PukkaCode_TdifExtension_plus5sigma.htm" />
+  <HelpKINode Title="plus5sigmaLabel field" Url="html/F_PukkaCode_PukkaGUI_plus5sigmaLabel.htm" />
+  <HelpKINode Title="plus5sigma_textLabel field" Url="html/F_PukkaCode_PukkaGUI_plus5sigma_textLabel.htm" />
+  <HelpKINode Title="plus6sigma method" Url="html/M_PukkaCode_TdifExtension_plus6sigma.htm" />
+  <HelpKINode Title="plus6sigmaLabel field" Url="html/F_PukkaCode_PukkaGUI_plus6sigmaLabel.htm" />
+  <HelpKINode Title="plus6sigma_textLabel field" Url="html/F_PukkaCode_PukkaGUI_plus6sigma_textLabel.htm" />
+  <HelpKINode Title="prgBarTDIFLoad field" Url="html/F_PukkaCode_PukkaGUI_prgBarTDIFLoad.htm" />
+  <HelpKINode Title="Program class">
+    <HelpKINode Title="methods" Url="html/Methods_T_PukkaCode_PukkaPopUpGUI_Program.htm" />
+  </HelpKINode>
+  <HelpKINode Title="programIssue property" Url="html/P_TdifDefinition_Tdif_programIssue.htm" />
+  <HelpKINode Title="programIssueColumn field" Url="html/F_TdifDefinition_Tdif_programIssueColumn.htm" />
+  <HelpKINode Title="programName property" Url="html/P_TdifDefinition_Tdif_programName.htm" />
+  <HelpKINode Title="programNameColumn field" Url="html/F_TdifDefinition_Tdif_programNameColumn.htm" />
+  <HelpKINode Title="programRevision property" Url="html/P_TdifDefinition_Tdif_programRevision.htm" />
+  <HelpKINode Title="programRevisionColumn field" Url="html/F_TdifDefinition_Tdif_programRevisionColumn.htm" />
+  <HelpKINode Title="PukkaCode namespace" Url="html/N_PukkaCode.htm" />
+  <HelpKINode Title="PukkaCode.CorrelationForm class" Url="html/T_PukkaCode_CorrelationForm.htm" />
+  <HelpKINode Title="PukkaCode.Pareto class" Url="html/T_PukkaCode_Pareto.htm" />
+  <HelpKINode Title="PukkaCode.PlotExtension class" Url="html/T_PukkaCode_PlotExtension.htm" />
+  <HelpKINode Title="PukkaCode.PukkaGUI class" Url="html/T_PukkaCode_PukkaGUI.htm" />
+  <HelpKINode Title="PukkaCode.PukkaPopUpGUI class" Url="html/T_PukkaCode_PukkaPopUpGUI.htm" />
+  <HelpKINode Title="PukkaCode.PukkaPopUpGUI.Program class" Url="html/T_PukkaCode_PukkaPopUpGUI_Program.htm" />
+  <HelpKINode Title="PukkaCode.SampleForm class" Url="html/T_PukkaCode_SampleForm.htm" />
+  <HelpKINode Title="PukkaCode.Selected class" Url="html/T_PukkaCode_Selected.htm" />
+  <HelpKINode Title="PukkaCode.SelectedPlot class" Url="html/T_PukkaCode_SelectedPlot.htm" />
+  <HelpKINode Title="PukkaCode.SourceFile class" Url="html/T_PukkaCode_SourceFile.htm" />
+  <HelpKINode Title="PukkaCode.TdifExtension class" Url="html/T_PukkaCode_TdifExtension.htm" />
+  <HelpKINode Title="PukkaGUI class">
+    <HelpKINode Title="PukkaGUI Class" Url="html/T_PukkaCode_PukkaGUI.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PukkaCode_PukkaGUI__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_PukkaCode_PukkaGUI.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PukkaCode_PukkaGUI.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PukkaGUI.adjustToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_adjustToolStripMenuItem.htm" />
+  <HelpKINode Title="PukkaGUI.allToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_allToolStripMenuItem.htm" />
+  <HelpKINode Title="PukkaGUI.allToolStripMenuItem_Click method" Url="html/M_PukkaCode_PukkaGUI_allToolStripMenuItem_Click.htm" />
+  <HelpKINode Title="PukkaGUI.balanceToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_balanceToolStripMenuItem.htm" />
+  <HelpKINode Title="PukkaGUI.balanceToolStripMenuItem_CheckedChanged method" Url="html/M_PukkaCode_PukkaGUI_balanceToolStripMenuItem_CheckedChanged.htm" />
+  <HelpKINode Title="PukkaGUI.bluesToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_bluesToolStripMenuItem.htm" />
+  <HelpKINode Title="PukkaGUI.bluesToolStripMenuItem_Click method" Url="html/M_PukkaCode_PukkaGUI_bluesToolStripMenuItem_Click.htm" />
+  <HelpKINode Title="PukkaGUI.BoxPlot field" Url="html/F_PukkaCode_PukkaGUI_BoxPlot.htm" />
+  <HelpKINode Title="PukkaGUI.buttonCorrelation field" Url="html/F_PukkaCode_PukkaGUI_buttonCorrelation.htm" />
+  <HelpKINode Title="PukkaGUI.buttonCorrelation_Click method" Url="html/M_PukkaCode_PukkaGUI_buttonCorrelation_Click.htm" />
+  <HelpKINode Title="PukkaGUI.buttonPareto field" Url="html/F_PukkaCode_PukkaGUI_buttonPareto.htm" />
+  <HelpKINode Title="PukkaGUI.buttonPareto_Click method" Url="html/M_PukkaCode_PukkaGUI_buttonPareto_Click.htm" />
+  <HelpKINode Title="PukkaGUI.checkBoxCountInvalid field" Url="html/F_PukkaCode_PukkaGUI_checkBoxCountInvalid.htm" />
+  <HelpKINode Title="PukkaGUI.CheckBoxCountInvalid_CheckStateChanged method" Url="html/M_PukkaCode_PukkaGUI_CheckBoxCountInvalid_CheckStateChanged.htm" />
+  <HelpKINode Title="PukkaGUI.colortheme field" Url="html/F_PukkaCode_PukkaGUI_colortheme.htm" />
+  <HelpKINode Title="PukkaGUI.colorThemesToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_colorThemesToolStripMenuItem.htm" />
+  <HelpKINode Title="PukkaGUI.comboBoxSourceFile field" Url="html/F_PukkaCode_PukkaGUI_comboBoxSourceFile.htm" />
+  <HelpKINode Title="PukkaGUI.ComboBoxSourceFile_SelectedIndexChanged method" Url="html/M_PukkaCode_PukkaGUI_ComboBoxSourceFile_SelectedIndexChanged.htm" />
+  <HelpKINode Title="PukkaGUI.componentDescLabel field" Url="html/F_PukkaCode_PukkaGUI_componentDescLabel.htm" />
+  <HelpKINode Title="PukkaGUI.components field" Url="html/F_PukkaCode_PukkaGUI_components.htm" />
+  <HelpKINode Title="PukkaGUI.coordToolTip field" Url="html/F_PukkaCode_PukkaGUI_coordToolTip.htm" />
+  <HelpKINode Title="PukkaGUI.countInvalid field" Url="html/F_PukkaCode_PukkaGUI_countInvalid.htm" />
+  <HelpKINode Title="PukkaGUI.cpkLabel field" Url="html/F_PukkaCode_PukkaGUI_cpkLabel.htm" />
+  <HelpKINode Title="PukkaGUI.cpk_textLabel field" Url="html/F_PukkaCode_PukkaGUI_cpk_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.cpLabel field" Url="html/F_PukkaCode_PukkaGUI_cpLabel.htm" />
+  <HelpKINode Title="PukkaGUI.cp_textLabel field" Url="html/F_PukkaCode_PukkaGUI_cp_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.dataToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_dataToolStripMenuItem.htm" />
+  <HelpKINode Title="PukkaGUI.Dispose method" Url="html/M_PukkaCode_PukkaGUI_Dispose.htm" />
+  <HelpKINode Title="PukkaGUI.exitToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_exitToolStripMenuItem.htm" />
+  <HelpKINode Title="PukkaGUI.exitToolStripMenuItem_Click method" Url="html/M_PukkaCode_PukkaGUI_exitToolStripMenuItem_Click.htm" />
+  <HelpKINode Title="PukkaGUI.fileToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_fileToolStripMenuItem.htm" />
+  <HelpKINode Title="PukkaGUI.formsPlot1_MouseClicked method" Url="html/M_PukkaCode_PukkaGUI_formsPlot1_MouseClicked.htm" />
+  <HelpKINode Title="PukkaGUI.formsPlot1_MouseDoubleClicked method" Url="html/M_PukkaCode_PukkaGUI_formsPlot1_MouseDoubleClicked.htm" />
+  <HelpKINode Title="PukkaGUI.graphsToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_graphsToolStripMenuItem.htm" />
+  <HelpKINode Title="PukkaGUI.greensToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_greensToolStripMenuItem.htm" />
+  <HelpKINode Title="PukkaGUI.groupBoxComponents field" Url="html/F_PukkaCode_PukkaGUI_groupBoxComponents.htm" />
+  <HelpKINode Title="PukkaGUI.groupBoxStatistics field" Url="html/F_PukkaCode_PukkaGUI_groupBoxStatistics.htm" />
+  <HelpKINode Title="PukkaGUI.HeatMap field" Url="html/F_PukkaCode_PukkaGUI_HeatMap.htm" />
+  <HelpKINode Title="PukkaGUI.heatMapCoordinateCorrection field" Url="html/F_PukkaCode_PukkaGUI_heatMapCoordinateCorrection.htm" />
+  <HelpKINode Title="PukkaGUI.highlightSelectedAreaToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_highlightSelectedAreaToolStripMenuItem.htm" />
+  <HelpKINode Title="PukkaGUI.hilimLabel field" Url="html/F_PukkaCode_PukkaGUI_hilimLabel.htm" />
+  <HelpKINode Title="PukkaGUI.hilim_textLabel field" Url="html/F_PukkaCode_PukkaGUI_hilim_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.Histogram field" Url="html/F_PukkaCode_PukkaGUI_Histogram.htm" />
+  <HelpKINode Title="PukkaGUI.Histogram_MouseDown method" Url="html/M_PukkaCode_PukkaGUI_Histogram_MouseDown.htm" />
+  <HelpKINode Title="PukkaGUI.Histogram_MouseUp method" Url="html/M_PukkaCode_PukkaGUI_Histogram_MouseUp.htm" />
+  <HelpKINode Title="PukkaGUI.InitializeComponent method" Url="html/M_PukkaCode_PukkaGUI_InitializeComponent.htm" />
+  <HelpKINode Title="PukkaGUI.initPukka method" Url="html/M_PukkaCode_PukkaGUI_initPukka.htm" />
+  <HelpKINode Title="PukkaGUI.isInRange method" Url="html/M_PukkaCode_PukkaGUI_isInRange.htm" />
+  <HelpKINode Title="PukkaGUI.ListBox1_MouseDoubleClick method" Url="html/M_PukkaCode_PukkaGUI_ListBox1_MouseDoubleClick.htm" />
+  <HelpKINode Title="PukkaGUI.listBoxComponent field" Url="html/F_PukkaCode_PukkaGUI_listBoxComponent.htm" />
+  <HelpKINode Title="PukkaGUI.listBoxComponent_DoubleClick method" Url="html/M_PukkaCode_PukkaGUI_listBoxComponent_DoubleClick.htm" />
+  <HelpKINode Title="PukkaGUI.listBoxTestList field" Url="html/F_PukkaCode_PukkaGUI_listBoxTestList.htm" />
+  <HelpKINode Title="PukkaGUI.listBoxTestList_SelectedIndexChanged method" Url="html/M_PukkaCode_PukkaGUI_listBoxTestList_SelectedIndexChanged.htm" />
+  <HelpKINode Title="PukkaGUI.lolimLabel field" Url="html/F_PukkaCode_PukkaGUI_lolimLabel.htm" />
+  <HelpKINode Title="PukkaGUI.lolim_textLabel field" Url="html/F_PukkaCode_PukkaGUI_lolim_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.maxLabel field" Url="html/F_PukkaCode_PukkaGUI_maxLabel.htm" />
+  <HelpKINode Title="PukkaGUI.maxX field" Url="html/F_PukkaCode_PukkaGUI_maxX.htm" />
+  <HelpKINode Title="PukkaGUI.maxY field" Url="html/F_PukkaCode_PukkaGUI_maxY.htm" />
+  <HelpKINode Title="PukkaGUI.max_textLabel field" Url="html/F_PukkaCode_PukkaGUI_max_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.meanLabel field" Url="html/F_PukkaCode_PukkaGUI_meanLabel.htm" />
+  <HelpKINode Title="PukkaGUI.mean_textLabel field" Url="html/F_PukkaCode_PukkaGUI_mean_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.medianLabel field" Url="html/F_PukkaCode_PukkaGUI_medianLabel.htm" />
+  <HelpKINode Title="PukkaGUI.median_textLabel field" Url="html/F_PukkaCode_PukkaGUI_median_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.menuStripFile field" Url="html/F_PukkaCode_PukkaGUI_menuStripFile.htm" />
+  <HelpKINode Title="PukkaGUI.minLabel field" Url="html/F_PukkaCode_PukkaGUI_minLabel.htm" />
+  <HelpKINode Title="PukkaGUI.minus4sigmaLabel field" Url="html/F_PukkaCode_PukkaGUI_minus4sigmaLabel.htm" />
+  <HelpKINode Title="PukkaGUI.minus4sigma_textLabel field" Url="html/F_PukkaCode_PukkaGUI_minus4sigma_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.minus5sigmaLabel field" Url="html/F_PukkaCode_PukkaGUI_minus5sigmaLabel.htm" />
+  <HelpKINode Title="PukkaGUI.minus5sigma_textLabel field" Url="html/F_PukkaCode_PukkaGUI_minus5sigma_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.minus6sigmaLabel field" Url="html/F_PukkaCode_PukkaGUI_minus6sigmaLabel.htm" />
+  <HelpKINode Title="PukkaGUI.minus6sigma_textLabel field" Url="html/F_PukkaCode_PukkaGUI_minus6sigma_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.minX field" Url="html/F_PukkaCode_PukkaGUI_minX.htm" />
+  <HelpKINode Title="PukkaGUI.minY field" Url="html/F_PukkaCode_PukkaGUI_minY.htm" />
+  <HelpKINode Title="PukkaGUI.min_textLabel field" Url="html/F_PukkaCode_PukkaGUI_min_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.oneToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_oneToolStripMenuItem.htm" />
+  <HelpKINode Title="PukkaGUI.oneToolStripMenuItem_Click method" Url="html/M_PukkaCode_PukkaGUI_oneToolStripMenuItem_Click.htm" />
+  <HelpKINode Title="PukkaGUI.openFileDialogMenuStrip field" Url="html/F_PukkaCode_PukkaGUI_openFileDialogMenuStrip.htm" />
+  <HelpKINode Title="PukkaGUI.openToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_openToolStripMenuItem.htm" />
+  <HelpKINode Title="PukkaGUI.openToolStripMenuItem_Click method" Url="html/M_PukkaCode_PukkaGUI_openToolStripMenuItem_Click.htm" />
+  <HelpKINode Title="PukkaGUI.panel1 field" Url="html/F_PukkaCode_PukkaGUI_panel1.htm" />
+  <HelpKINode Title="PukkaGUI.Plot method" Url="html/M_PukkaCode_PukkaGUI_Plot.htm" />
+  <HelpKINode Title="PukkaGUI.PlotHeatMap_MouseMove method" Url="html/M_PukkaCode_PukkaGUI_PlotHeatMap_MouseMove.htm" />
+  <HelpKINode Title="PukkaGUI.plottableCorrelX field" Url="html/F_PukkaCode_PukkaGUI_plottableCorrelX.htm" />
+  <HelpKINode Title="PukkaGUI.plottableCorrelY field" Url="html/F_PukkaCode_PukkaGUI_plottableCorrelY.htm" />
+  <HelpKINode Title="PukkaGUI.plus4sigmaLabel field" Url="html/F_PukkaCode_PukkaGUI_plus4sigmaLabel.htm" />
+  <HelpKINode Title="PukkaGUI.plus4sigma_textLabel field" Url="html/F_PukkaCode_PukkaGUI_plus4sigma_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.plus5sigmaLabel field" Url="html/F_PukkaCode_PukkaGUI_plus5sigmaLabel.htm" />
+  <HelpKINode Title="PukkaGUI.plus5sigma_textLabel field" Url="html/F_PukkaCode_PukkaGUI_plus5sigma_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.plus6sigmaLabel field" Url="html/F_PukkaCode_PukkaGUI_plus6sigmaLabel.htm" />
+  <HelpKINode Title="PukkaGUI.plus6sigma_textLabel field" Url="html/F_PukkaCode_PukkaGUI_plus6sigma_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.prgBarTDIFLoad field" Url="html/F_PukkaCode_PukkaGUI_prgBarTDIFLoad.htm" />
+  <HelpKINode Title="PukkaGUI.PukkaGUI constructor" Url="html/M_PukkaCode_PukkaGUI__ctor.htm" />
+  <HelpKINode Title="PukkaGUI.PukkaGUI_Load method" Url="html/M_PukkaCode_PukkaGUI_PukkaGUI_Load.htm" />
+  <HelpKINode Title="PukkaGUI.Q1Label field" Url="html/F_PukkaCode_PukkaGUI_Q1Label.htm" />
+  <HelpKINode Title="PukkaGUI.Q1_textLabel field" Url="html/F_PukkaCode_PukkaGUI_Q1_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.Q3Label field" Url="html/F_PukkaCode_PukkaGUI_Q3Label.htm" />
+  <HelpKINode Title="PukkaGUI.Q3_textLabel field" Url="html/F_PukkaCode_PukkaGUI_Q3_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.radioButtonPassFail field" Url="html/F_PukkaCode_PukkaGUI_radioButtonPassFail.htm" />
+  <HelpKINode Title="PukkaGUI.radioButtonShowAll field" Url="html/F_PukkaCode_PukkaGUI_radioButtonShowAll.htm" />
+  <HelpKINode Title="PukkaGUI.radioButtonShowOne field" Url="html/F_PukkaCode_PukkaGUI_radioButtonShowOne.htm" />
+  <HelpKINode Title="PukkaGUI.RadioButtonShowOne_CheckedChanged method" Url="html/M_PukkaCode_PukkaGUI_RadioButtonShowOne_CheckedChanged.htm" />
+  <HelpKINode Title="PukkaGUI.radioButtonTouchdowns field" Url="html/F_PukkaCode_PukkaGUI_radioButtonTouchdowns.htm" />
+  <HelpKINode Title="PukkaGUI.radioButtonViewByTest field" Url="html/F_PukkaCode_PukkaGUI_radioButtonViewByTest.htm" />
+  <HelpKINode Title="PukkaGUI.radioButtonViewByTest_CheckedChanged method" Url="html/M_PukkaCode_PukkaGUI_radioButtonViewByTest_CheckedChanged.htm" />
+  <HelpKINode Title="PukkaGUI.randomColors field" Url="html/F_PukkaCode_PukkaGUI_randomColors.htm" />
+  <HelpKINode Title="PukkaGUI.rangeLabel field" Url="html/F_PukkaCode_PukkaGUI_rangeLabel.htm" />
+  <HelpKINode Title="PukkaGUI.range_textLabel field" Url="html/F_PukkaCode_PukkaGUI_range_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.Runchart field" Url="html/F_PukkaCode_PukkaGUI_Runchart.htm" />
+  <HelpKINode Title="PukkaGUI.samplesLabel field" Url="html/F_PukkaCode_PukkaGUI_samplesLabel.htm" />
+  <HelpKINode Title="PukkaGUI.samples_textLabel field" Url="html/F_PukkaCode_PukkaGUI_samples_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.SetLabels method" Url="html/M_PukkaCode_PukkaGUI_SetLabels.htm" />
+  <HelpKINode Title="PukkaGUI.showAll field" Url="html/F_PukkaCode_PukkaGUI_showAll.htm" />
+  <HelpKINode Title="PukkaGUI.ShowOutput method" Url="html/M_PukkaCode_PukkaGUI_ShowOutput.htm" />
+  <HelpKINode Title="PukkaGUI.stdDevLabel field" Url="html/F_PukkaCode_PukkaGUI_stdDevLabel.htm" />
+  <HelpKINode Title="PukkaGUI.stdDev_textLabel field" Url="html/F_PukkaCode_PukkaGUI_stdDev_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.tableLayoutPanelGUI field" Url="html/F_PukkaCode_PukkaGUI_tableLayoutPanelGUI.htm" />
+  <HelpKINode Title="PukkaGUI.tableLayoutPanelSampleList field" Url="html/F_PukkaCode_PukkaGUI_tableLayoutPanelSampleList.htm" />
+  <HelpKINode Title="PukkaGUI.tableLayoutPanelStatistics field" Url="html/F_PukkaCode_PukkaGUI_tableLayoutPanelStatistics.htm" />
+  <HelpKINode Title="PukkaGUI.tdif field" Url="html/F_PukkaCode_PukkaGUI_tdif.htm" />
+  <HelpKINode Title="PukkaGUI.temperatureLabel field" Url="html/F_PukkaCode_PukkaGUI_temperatureLabel.htm" />
+  <HelpKINode Title="PukkaGUI.temperature_textLabel field" Url="html/F_PukkaCode_PukkaGUI_temperature_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.testNameLabel field" Url="html/F_PukkaCode_PukkaGUI_testNameLabel.htm" />
+  <HelpKINode Title="PukkaGUI.test_textLabel field" Url="html/F_PukkaCode_PukkaGUI_test_textLabel.htm" />
+  <HelpKINode Title="PukkaGUI.turboToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_turboToolStripMenuItem.htm" />
+  <HelpKINode Title="PukkaGUI_Load method" Url="html/M_PukkaCode_PukkaGUI_PukkaGUI_Load.htm" />
+  <HelpKINode Title="PukkaPopUpGUI class">
+    <HelpKINode Title="PukkaPopUpGUI Class" Url="html/T_PukkaCode_PukkaPopUpGUI.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PukkaCode_PukkaPopUpGUI__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_PukkaCode_PukkaPopUpGUI.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PukkaCode_PukkaPopUpGUI.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PukkaPopUpGUI.buttonPopUp field" Url="html/F_PukkaCode_PukkaPopUpGUI_buttonPopUp.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.buttonPopUp_Click method" Url="html/M_PukkaCode_PukkaPopUpGUI_buttonPopUp_Click.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.components field" Url="html/F_PukkaCode_PukkaPopUpGUI_components.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.Delete_Click method" Url="html/M_PukkaCode_PukkaPopUpGUI_Delete_Click.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.DisplayButton field" Url="html/F_PukkaCode_PukkaPopUpGUI_DisplayButton.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.DisplayButton_Click method" Url="html/M_PukkaCode_PukkaPopUpGUI_DisplayButton_Click.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.Dispose method" Url="html/M_PukkaCode_PukkaPopUpGUI_Dispose.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.InitializeComponent method" Url="html/M_PukkaCode_PukkaPopUpGUI_InitializeComponent.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.labelDragDrop field" Url="html/F_PukkaCode_PukkaPopUpGUI_labelDragDrop.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.labelPath field" Url="html/F_PukkaCode_PukkaPopUpGUI_labelPath.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.listBoxChooseFilePopUp field" Url="html/F_PukkaCode_PukkaPopUpGUI_listBoxChooseFilePopUp.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.listBoxChooseFilePopUp_DragDrop method" Url="html/M_PukkaCode_PukkaPopUpGUI_listBoxChooseFilePopUp_DragDrop.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.listBoxChooseFilePopUp_DragEnter method" Url="html/M_PukkaCode_PukkaPopUpGUI_listBoxChooseFilePopUp_DragEnter.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.listBoxChooseFilePopUp_KeyDown method" Url="html/M_PukkaCode_PukkaPopUpGUI_listBoxChooseFilePopUp_KeyDown.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.listBoxChooseFilePopUp_KeyPress method" Url="html/M_PukkaCode_PukkaPopUpGUI_listBoxChooseFilePopUp_KeyPress.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.listBoxChooseFilePopUp_MouseMove method" Url="html/M_PukkaCode_PukkaPopUpGUI_listBoxChooseFilePopUp_MouseMove.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.openFileDialogTdif field" Url="html/F_PukkaCode_PukkaPopUpGUI_openFileDialogTdif.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.panelDragDrop field" Url="html/F_PukkaCode_PukkaPopUpGUI_panelDragDrop.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.pictureBox1 field" Url="html/F_PukkaCode_PukkaPopUpGUI_pictureBox1.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.Program class" Url="html/T_PukkaCode_PukkaPopUpGUI_Program.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.Program.Main method" Url="html/M_PukkaCode_PukkaPopUpGUI_Program_Main.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.PukkaPopUpGUI constructor" Url="html/M_PukkaCode_PukkaPopUpGUI__ctor.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.RemoveSelected field" Url="html/F_PukkaCode_PukkaPopUpGUI_RemoveSelected.htm" />
+  <HelpKINode Title="PukkaPopUpGUI.tableLayoutPanel1 field" Url="html/F_PukkaCode_PukkaPopUpGUI_tableLayoutPanel1.htm" />
+  <HelpKINode Title="Q1Label field" Url="html/F_PukkaCode_PukkaGUI_Q1Label.htm" />
+  <HelpKINode Title="Q1_textLabel field" Url="html/F_PukkaCode_PukkaGUI_Q1_textLabel.htm" />
+  <HelpKINode Title="Q3Label field" Url="html/F_PukkaCode_PukkaGUI_Q3Label.htm" />
+  <HelpKINode Title="Q3_textLabel field" Url="html/F_PukkaCode_PukkaGUI_Q3_textLabel.htm" />
+  <HelpKINode Title="radioButtonPassFail field" Url="html/F_PukkaCode_PukkaGUI_radioButtonPassFail.htm" />
+  <HelpKINode Title="radioButtonShowAll field" Url="html/F_PukkaCode_PukkaGUI_radioButtonShowAll.htm" />
+  <HelpKINode Title="radioButtonShowOne field" Url="html/F_PukkaCode_PukkaGUI_radioButtonShowOne.htm" />
+  <HelpKINode Title="RadioButtonShowOne_CheckedChanged method" Url="html/M_PukkaCode_PukkaGUI_RadioButtonShowOne_CheckedChanged.htm" />
+  <HelpKINode Title="radioButtonTouchdowns field" Url="html/F_PukkaCode_PukkaGUI_radioButtonTouchdowns.htm" />
+  <HelpKINode Title="radioButtonViewByTest field" Url="html/F_PukkaCode_PukkaGUI_radioButtonViewByTest.htm" />
+  <HelpKINode Title="radioButtonViewByTest_CheckedChanged method" Url="html/M_PukkaCode_PukkaGUI_radioButtonViewByTest_CheckedChanged.htm" />
+  <HelpKINode Title="randomColors field">
+    <HelpKINode Title="PlotExtension.randomColors Field" Url="html/F_PukkaCode_PlotExtension_randomColors.htm" />
+    <HelpKINode Title="PukkaGUI.randomColors Field" Url="html/F_PukkaCode_PukkaGUI_randomColors.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Range method" Url="html/M_PukkaCode_TdifExtension_Range.htm" />
+  <HelpKINode Title="rangeLabel field" Url="html/F_PukkaCode_PukkaGUI_rangeLabel.htm" />
+  <HelpKINode Title="range_textLabel field" Url="html/F_PukkaCode_PukkaGUI_range_textLabel.htm" />
+  <HelpKINode Title="Ratio field" Url="html/F_PukkaCode_Pareto_Ratio.htm" />
+  <HelpKINode Title="ratioByTest field" Url="html/F_PukkaCode_Pareto_ratioByTest.htm" />
+  <HelpKINode Title="RatioYield field" Url="html/F_PukkaCode_Pareto_RatioYield.htm" />
+  <HelpKINode Title="records field" Url="html/F_TdifDefinition_Tdif_records.htm" />
+  <HelpKINode Title="RemoveSelected field" Url="html/F_PukkaCode_PukkaPopUpGUI_RemoveSelected.htm" />
+  <HelpKINode Title="rotateLeft_2DArray method" Url="html/M_TdifDefinition_Tdif_rotateLeft_2DArray.htm" />
+  <HelpKINode Title="Runchart field" Url="html/F_PukkaCode_PukkaGUI_Runchart.htm" />
+  <HelpKINode Title="RunChart method" Url="html/M_PukkaCode_PlotExtension_RunChart.htm" />
+  <HelpKINode Title="rxInt field" Url="html/F_TdifDefinition_Tdif_rxInt.htm" />
+  <HelpKINode Title="Sample namespace" Url="html/N_Sample.htm" />
+  <HelpKINode Title="Sample.DataGridViewProgressCell class" Url="html/T_Sample_DataGridViewProgressCell.htm" />
+  <HelpKINode Title="Sample.DataGridViewProgressColumn class" Url="html/T_Sample_DataGridViewProgressColumn.htm" />
+  <HelpKINode Title="SampleForm class">
+    <HelpKINode Title="SampleForm Class" Url="html/T_PukkaCode_SampleForm.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PukkaCode_SampleForm__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_PukkaCode_SampleForm.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PukkaCode_SampleForm.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SampleForm.checkBoxDisplayAll field" Url="html/F_PukkaCode_SampleForm_checkBoxDisplayAll.htm" />
+  <HelpKINode Title="SampleForm.checkBoxDisplayAll_CheckedChanged method" Url="html/M_PukkaCode_SampleForm_checkBoxDisplayAll_CheckedChanged.htm" />
+  <HelpKINode Title="SampleForm.components field" Url="html/F_PukkaCode_SampleForm_components.htm" />
+  <HelpKINode Title="SampleForm.dataGridView field" Url="html/F_PukkaCode_SampleForm_dataGridView.htm" />
+  <HelpKINode Title="SampleForm.Dispose method" Url="html/M_PukkaCode_SampleForm_Dispose.htm" />
+  <HelpKINode Title="SampleForm.InitializeComponent method" Url="html/M_PukkaCode_SampleForm_InitializeComponent.htm" />
+  <HelpKINode Title="SampleForm.labelBin field" Url="html/F_PukkaCode_SampleForm_labelBin.htm" />
+  <HelpKINode Title="SampleForm.labelCoord field" Url="html/F_PukkaCode_SampleForm_labelCoord.htm" />
+  <HelpKINode Title="SampleForm.labelDeviceNumber field" Url="html/F_PukkaCode_SampleForm_labelDeviceNumber.htm" />
+  <HelpKINode Title="SampleForm.labelPF field" Url="html/F_PukkaCode_SampleForm_labelPF.htm" />
+  <HelpKINode Title="SampleForm.labelSiteNumber field" Url="html/F_PukkaCode_SampleForm_labelSiteNumber.htm" />
+  <HelpKINode Title="SampleForm.labelTextBin field" Url="html/F_PukkaCode_SampleForm_labelTextBin.htm" />
+  <HelpKINode Title="SampleForm.labelTextCoord field" Url="html/F_PukkaCode_SampleForm_labelTextCoord.htm" />
+  <HelpKINode Title="SampleForm.labelTextDevice field" Url="html/F_PukkaCode_SampleForm_labelTextDevice.htm" />
+  <HelpKINode Title="SampleForm.labelTextSite field" Url="html/F_PukkaCode_SampleForm_labelTextSite.htm" />
+  <HelpKINode Title="SampleForm.makeComponentTable method" Url="html/M_PukkaCode_SampleForm_makeComponentTable.htm" />
+  <HelpKINode Title="SampleForm.SampleForm constructor" Url="html/M_PukkaCode_SampleForm__ctor.htm" />
+  <HelpKINode Title="SampleForm.SampleFormLabels method" Url="html/M_PukkaCode_SampleForm_SampleFormLabels.htm" />
+  <HelpKINode Title="SampleForm.SampleForm_Load method" Url="html/M_PukkaCode_SampleForm_SampleForm_Load.htm" />
+  <HelpKINode Title="SampleForm.tableLayoutPanelDatalist field" Url="html/F_PukkaCode_SampleForm_tableLayoutPanelDatalist.htm" />
+  <HelpKINode Title="SampleForm.tdifFile field" Url="html/F_PukkaCode_SampleForm_tdifFile.htm" />
+  <HelpKINode Title="SampleFormLabels method" Url="html/M_PukkaCode_SampleForm_SampleFormLabels.htm" />
+  <HelpKINode Title="SampleForm_Load method" Url="html/M_PukkaCode_SampleForm_SampleForm_Load.htm" />
+  <HelpKINode Title="samplesLabel field" Url="html/F_PukkaCode_PukkaGUI_samplesLabel.htm" />
+  <HelpKINode Title="samples_textLabel field" Url="html/F_PukkaCode_PukkaGUI_samples_textLabel.htm" />
+  <HelpKINode Title="Selected class">
+    <HelpKINode Title="Selected Class" Url="html/T_PukkaCode_Selected.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PukkaCode_Selected__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_PukkaCode_Selected.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PukkaCode_Selected.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Selected.ComponentListItem property" Url="html/P_PukkaCode_Selected_ComponentListItem.htm" />
+  <HelpKINode Title="Selected.Selected constructor" Url="html/M_PukkaCode_Selected__ctor.htm" />
+  <HelpKINode Title="Selected.SN property" Url="html/P_PukkaCode_Selected_SN.htm" />
+  <HelpKINode Title="Selected.TestListItem property" Url="html/P_PukkaCode_Selected_TestListItem.htm" />
+  <HelpKINode Title="Selected.TestListItem2 property" Url="html/P_PukkaCode_Selected_TestListItem2.htm" />
+  <HelpKINode Title="Selected.XCoord property" Url="html/P_PukkaCode_Selected_XCoord.htm" />
+  <HelpKINode Title="Selected.YCoord property" Url="html/P_PukkaCode_Selected_YCoord.htm" />
+  <HelpKINode Title="Selected._ComponentListItem field" Url="html/F_PukkaCode_Selected__ComponentListItem.htm" />
+  <HelpKINode Title="Selected._SN field" Url="html/F_PukkaCode_Selected__SN.htm" />
+  <HelpKINode Title="Selected._TestListItem field" Url="html/F_PukkaCode_Selected__TestListItem.htm" />
+  <HelpKINode Title="Selected._TestListItem2 field" Url="html/F_PukkaCode_Selected__TestListItem2.htm" />
+  <HelpKINode Title="Selected._XCoord field" Url="html/F_PukkaCode_Selected__XCoord.htm" />
+  <HelpKINode Title="Selected._YCoord field" Url="html/F_PukkaCode_Selected__YCoord.htm" />
+  <HelpKINode Title="SelectedPlot class">
+    <HelpKINode Title="SelectedPlot Class" Url="html/T_PukkaCode_SelectedPlot.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PukkaCode_SelectedPlot__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_PukkaCode_SelectedPlot.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PukkaCode_SelectedPlot.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SelectedPlot.beginX property" Url="html/P_PukkaCode_SelectedPlot_beginX.htm" />
+  <HelpKINode Title="SelectedPlot.beginY property" Url="html/P_PukkaCode_SelectedPlot_beginY.htm" />
+  <HelpKINode Title="SelectedPlot.coords property" Url="html/P_PukkaCode_SelectedPlot_coords.htm" />
+  <HelpKINode Title="SelectedPlot.endX property" Url="html/P_PukkaCode_SelectedPlot_endX.htm" />
+  <HelpKINode Title="SelectedPlot.endY property" Url="html/P_PukkaCode_SelectedPlot_endY.htm" />
+  <HelpKINode Title="SelectedPlot.SelectedPlot constructor" Url="html/M_PukkaCode_SelectedPlot__ctor.htm" />
+  <HelpKINode Title="SelectedPlot._coords field" Url="html/F_PukkaCode_SelectedPlot__coords.htm" />
+  <HelpKINode Title="SelectedPlot._mouseDownX field" Url="html/F_PukkaCode_SelectedPlot__mouseDownX.htm" />
+  <HelpKINode Title="SelectedPlot._mouseDownY field" Url="html/F_PukkaCode_SelectedPlot__mouseDownY.htm" />
+  <HelpKINode Title="SelectedPlot._mouseUpX field" Url="html/F_PukkaCode_SelectedPlot__mouseUpX.htm" />
+  <HelpKINode Title="SelectedPlot._mouseUpY field" Url="html/F_PukkaCode_SelectedPlot__mouseUpY.htm" />
+  <HelpKINode Title="SerialNumber property" Url="html/P_TdifDefinition_DataRecord_SerialNumber.htm" />
+  <HelpKINode Title="SetColor method" Url="html/M_PukkaCode_PlotExtension_SetColor.htm" />
+  <HelpKINode Title="SetLabels method" Url="html/M_PukkaCode_PukkaGUI_SetLabels.htm" />
+  <HelpKINode Title="showAll field" Url="html/F_PukkaCode_PukkaGUI_showAll.htm" />
+  <HelpKINode Title="showClickedComponentSN method" Url="html/M_TdifDefinition_Tdif_showClickedComponentSN.htm" />
+  <HelpKINode Title="showClickedTest method" Url="html/M_TdifDefinition_Tdif_showClickedTest.htm" />
+  <HelpKINode Title="ShowOutput method" Url="html/M_PukkaCode_PukkaGUI_ShowOutput.htm" />
+  <HelpKINode Title="Site property" Url="html/P_TdifDefinition_DataRecord_Site.htm" />
+  <HelpKINode Title="siteColumn field" Url="html/F_TdifDefinition_Tdif_siteColumn.htm" />
+  <HelpKINode Title="SN property" Url="html/P_PukkaCode_Selected_SN.htm" />
+  <HelpKINode Title="SourceFile class">
+    <HelpKINode Title="SourceFile Class" Url="html/T_PukkaCode_SourceFile.htm" />
+    <HelpKINode Title="constructor" Url="html/M_PukkaCode_SourceFile__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_PukkaCode_SourceFile.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_PukkaCode_SourceFile.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SourceFile.Files property" Url="html/P_PukkaCode_SourceFile_Files.htm" />
+  <HelpKINode Title="SourceFile.inputFile property" Url="html/P_PukkaCode_SourceFile_inputFile.htm" />
+  <HelpKINode Title="SourceFile.SourceFile constructor" Url="html/M_PukkaCode_SourceFile__ctor.htm" />
+  <HelpKINode Title="SourceFile._Files field" Url="html/F_PukkaCode_SourceFile__Files.htm" />
+  <HelpKINode Title="SourceFile._inputFile field" Url="html/F_PukkaCode_SourceFile__inputFile.htm" />
+  <HelpKINode Title="Specification property" Url="html/P_TdifDefinition_TestRecord_Specification.htm" />
+  <HelpKINode Title="specificationColumn field" Url="html/F_TdifDefinition_Tdif_specificationColumn.htm" />
+  <HelpKINode Title="stationHead property" Url="html/P_TdifDefinition_Tdif_stationHead.htm" />
+  <HelpKINode Title="stationHeadColumn field" Url="html/F_TdifDefinition_Tdif_stationHeadColumn.htm" />
+  <HelpKINode Title="stationID property" Url="html/P_TdifDefinition_Tdif_stationID.htm" />
+  <HelpKINode Title="stationIDColumn field" Url="html/F_TdifDefinition_Tdif_stationIDColumn.htm" />
+  <HelpKINode Title="StdDev method" Url="html/M_PukkaCode_TdifExtension_StdDev.htm" />
+  <HelpKINode Title="stdDevLabel field" Url="html/F_PukkaCode_PukkaGUI_stdDevLabel.htm" />
+  <HelpKINode Title="stdDev_textLabel field" Url="html/F_PukkaCode_PukkaGUI_stdDev_textLabel.htm" />
+  <HelpKINode Title="subLotNum property" Url="html/P_TdifDefinition_Tdif_subLotNum.htm" />
+  <HelpKINode Title="subLotNumColumn field" Url="html/F_TdifDefinition_Tdif_subLotNumColumn.htm" />
+  <HelpKINode Title="tableLayoutPanel1 field" Url="html/F_PukkaCode_PukkaPopUpGUI_tableLayoutPanel1.htm" />
+  <HelpKINode Title="tableLayoutPanelDatalist field" Url="html/F_PukkaCode_SampleForm_tableLayoutPanelDatalist.htm" />
+  <HelpKINode Title="tableLayoutPanelGUI field" Url="html/F_PukkaCode_PukkaGUI_tableLayoutPanelGUI.htm" />
+  <HelpKINode Title="tableLayoutPanelSampleList field" Url="html/F_PukkaCode_PukkaGUI_tableLayoutPanelSampleList.htm" />
+  <HelpKINode Title="tableLayoutPanelStatistics field" Url="html/F_PukkaCode_PukkaGUI_tableLayoutPanelStatistics.htm" />
+  <HelpKINode Title="tableLayoutPareto field" Url="html/F_PukkaCode_Pareto_tableLayoutPareto.htm" />
+  <HelpKINode Title="Tdif class">
+    <HelpKINode Title="Tdif Class" Url="html/T_TdifDefinition_Tdif.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TdifDefinition_Tdif__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_TdifDefinition_Tdif.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TdifDefinition_Tdif.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TdifDefinition_Tdif.htm" />
+  </HelpKINode>
+  <HelpKINode Title="tdif field" Url="html/F_PukkaCode_PukkaGUI_tdif.htm" />
+  <HelpKINode Title="Tdif.addDataRecord method" Url="html/M_TdifDefinition_Tdif_addDataRecord.htm" />
+  <HelpKINode Title="Tdif.addTestRecord method" Url="html/M_TdifDefinition_Tdif_addTestRecord.htm" />
+  <HelpKINode Title="Tdif.binColumn field" Url="html/F_TdifDefinition_Tdif_binColumn.htm" />
+  <HelpKINode Title="Tdif.catColumn field" Url="html/F_TdifDefinition_Tdif_catColumn.htm" />
+  <HelpKINode Title="Tdif.CoordsPresent method" Url="html/M_TdifDefinition_Tdif_CoordsPresent.htm" />
+  <HelpKINode Title="Tdif.countInvalid property" Url="html/P_TdifDefinition_Tdif_countInvalid.htm" />
+  <HelpKINode Title="Tdif.dataIdentifierColumn field" Url="html/F_TdifDefinition_Tdif_dataIdentifierColumn.htm" />
+  <HelpKINode Title="Tdif.dataRecordDict field" Url="html/F_TdifDefinition_Tdif_dataRecordDict.htm" />
+  <HelpKINode Title="Tdif.dataRecordIdentifier field" Url="html/F_TdifDefinition_Tdif_dataRecordIdentifier.htm" />
+  <HelpKINode Title="Tdif.dataRecords field" Url="html/F_TdifDefinition_Tdif_dataRecords.htm" />
+  <HelpKINode Title="Tdif.deviceName property" Url="html/P_TdifDefinition_Tdif_deviceName.htm" />
+  <HelpKINode Title="Tdif.deviceNameColumn field" Url="html/F_TdifDefinition_Tdif_deviceNameColumn.htm" />
+  <HelpKINode Title="Tdif.FirstDieTime method" Url="html/M_TdifDefinition_Tdif_FirstDieTime.htm" />
+  <HelpKINode Title="Tdif.flip2DArray_Xaxis method" Url="html/M_TdifDefinition_Tdif_flip2DArray_Xaxis.htm" />
+  <HelpKINode Title="Tdif.flip2DArray_Yaxis method" Url="html/M_TdifDefinition_Tdif_flip2DArray_Yaxis.htm" />
+  <HelpKINode Title="Tdif.formatColumn field" Url="html/F_TdifDefinition_Tdif_formatColumn.htm" />
+  <HelpKINode Title="Tdif.getBinList method" Url="html/M_TdifDefinition_Tdif_getBinList.htm" />
+  <HelpKINode Title="Tdif.getCountByBin method" Url="html/M_TdifDefinition_Tdif_getCountByBin.htm" />
+  <HelpKINode Title="Tdif.getCountByYield method" Url="html/M_TdifDefinition_Tdif_getCountByYield.htm" />
+  <HelpKINode Title="Tdif.getCountFailed method" Url="html/M_TdifDefinition_Tdif_getCountFailed.htm" />
+  <HelpKINode Title="Tdif.getHilim method" Url="html/M_TdifDefinition_Tdif_getHilim.htm" />
+  <HelpKINode Title="Tdif.getLolim method" Url="html/M_TdifDefinition_Tdif_getLolim.htm" />
+  <HelpKINode Title="Tdif.getMaxXCoord method" Url="html/M_TdifDefinition_Tdif_getMaxXCoord.htm" />
+  <HelpKINode Title="Tdif.getMaxYCoord method" Url="html/M_TdifDefinition_Tdif_getMaxYCoord.htm" />
+  <HelpKINode Title="Tdif.getMinXCoord method" Url="html/M_TdifDefinition_Tdif_getMinXCoord.htm" />
+  <HelpKINode Title="Tdif.getMinYCoord method" Url="html/M_TdifDefinition_Tdif_getMinYCoord.htm" />
+  <HelpKINode Title="Tdif.getTemperature method" Url="html/M_TdifDefinition_Tdif_getTemperature.htm" />
+  <HelpKINode Title="Tdif.getTestCount method" Url="html/M_TdifDefinition_Tdif_getTestCount.htm" />
+  <HelpKINode Title="Tdif.getTestData method" Url="html/M_TdifDefinition_Tdif_getTestData.htm" />
+  <HelpKINode Title="Tdif.getTestName method" Url="html/M_TdifDefinition_Tdif_getTestName.htm" />
+  <HelpKINode Title="Tdif.getTestUnit method" Url="html/M_TdifDefinition_Tdif_getTestUnit.htm" />
+  <HelpKINode Title="Tdif.getXYBinMap method" Url="html/M_TdifDefinition_Tdif_getXYBinMap.htm" />
+  <HelpKINode Title="Tdif.getXYTouchdowns method" Url="html/M_TdifDefinition_Tdif_getXYTouchdowns.htm" />
+  <HelpKINode Title="Tdif.getXYVal method" Url="html/M_TdifDefinition_Tdif_getXYVal.htm" />
+  <HelpKINode Title="Tdif.getXYValNullable method" Url="html/M_TdifDefinition_Tdif_getXYValNullable.htm" />
+  <HelpKINode Title="Tdif.headRow1 field" Url="html/F_TdifDefinition_Tdif_headRow1.htm" />
+  <HelpKINode Title="Tdif.headRow2 field" Url="html/F_TdifDefinition_Tdif_headRow2.htm" />
+  <HelpKINode Title="Tdif.headRow3 field" Url="html/F_TdifDefinition_Tdif_headRow3.htm" />
+  <HelpKINode Title="Tdif.headRow4 field" Url="html/F_TdifDefinition_Tdif_headRow4.htm" />
+  <HelpKINode Title="Tdif.headTemperatureColumn field" Url="html/F_TdifDefinition_Tdif_headTemperatureColumn.htm" />
+  <HelpKINode Title="Tdif.hiLimColumn field" Url="html/F_TdifDefinition_Tdif_hiLimColumn.htm" />
+  <HelpKINode Title="Tdif.LastDieTime method" Url="html/M_TdifDefinition_Tdif_LastDieTime.htm" />
+  <HelpKINode Title="Tdif.Load method" Url="html/M_TdifDefinition_Tdif_Load.htm" />
+  <HelpKINode Title="Tdif.loLimColumn field" Url="html/F_TdifDefinition_Tdif_loLimColumn.htm" />
+  <HelpKINode Title="Tdif.lotNum property" Url="html/P_TdifDefinition_Tdif_lotNum.htm" />
+  <HelpKINode Title="Tdif.lotNumColumn field" Url="html/F_TdifDefinition_Tdif_lotNumColumn.htm" />
+  <HelpKINode Title="Tdif.makeComponentList method" Url="html/M_TdifDefinition_Tdif_makeComponentList.htm" />
+  <HelpKINode Title="Tdif.makeTestList method" Url="html/M_TdifDefinition_Tdif_makeTestList.htm" />
+  <HelpKINode Title="Tdif.operatorID property" Url="html/P_TdifDefinition_Tdif_operatorID.htm" />
+  <HelpKINode Title="Tdif.operatorIDColumn field" Url="html/F_TdifDefinition_Tdif_operatorIDColumn.htm" />
+  <HelpKINode Title="Tdif.ParseTdif method" Url="html/M_TdifDefinition_Tdif_ParseTdif.htm" />
+  <HelpKINode Title="Tdif.programIssue property" Url="html/P_TdifDefinition_Tdif_programIssue.htm" />
+  <HelpKINode Title="Tdif.programIssueColumn field" Url="html/F_TdifDefinition_Tdif_programIssueColumn.htm" />
+  <HelpKINode Title="Tdif.programName property" Url="html/P_TdifDefinition_Tdif_programName.htm" />
+  <HelpKINode Title="Tdif.programNameColumn field" Url="html/F_TdifDefinition_Tdif_programNameColumn.htm" />
+  <HelpKINode Title="Tdif.programRevision property" Url="html/P_TdifDefinition_Tdif_programRevision.htm" />
+  <HelpKINode Title="Tdif.programRevisionColumn field" Url="html/F_TdifDefinition_Tdif_programRevisionColumn.htm" />
+  <HelpKINode Title="Tdif.records field" Url="html/F_TdifDefinition_Tdif_records.htm" />
+  <HelpKINode Title="Tdif.rotateLeft_2DArray method" Url="html/M_TdifDefinition_Tdif_rotateLeft_2DArray.htm" />
+  <HelpKINode Title="Tdif.rxInt field" Url="html/F_TdifDefinition_Tdif_rxInt.htm" />
+  <HelpKINode Title="Tdif.showClickedComponentSN method" Url="html/M_TdifDefinition_Tdif_showClickedComponentSN.htm" />
+  <HelpKINode Title="Tdif.showClickedTest method" Url="html/M_TdifDefinition_Tdif_showClickedTest.htm" />
+  <HelpKINode Title="Tdif.siteColumn field" Url="html/F_TdifDefinition_Tdif_siteColumn.htm" />
+  <HelpKINode Title="Tdif.specificationColumn field" Url="html/F_TdifDefinition_Tdif_specificationColumn.htm" />
+  <HelpKINode Title="Tdif.stationHead property" Url="html/P_TdifDefinition_Tdif_stationHead.htm" />
+  <HelpKINode Title="Tdif.stationHeadColumn field" Url="html/F_TdifDefinition_Tdif_stationHeadColumn.htm" />
+  <HelpKINode Title="Tdif.stationID property" Url="html/P_TdifDefinition_Tdif_stationID.htm" />
+  <HelpKINode Title="Tdif.stationIDColumn field" Url="html/F_TdifDefinition_Tdif_stationIDColumn.htm" />
+  <HelpKINode Title="Tdif.subLotNum property" Url="html/P_TdifDefinition_Tdif_subLotNum.htm" />
+  <HelpKINode Title="Tdif.subLotNumColumn field" Url="html/F_TdifDefinition_Tdif_subLotNumColumn.htm" />
+  <HelpKINode Title="Tdif.Tdif constructor" Url="html/M_TdifDefinition_Tdif__ctor.htm" />
+  <HelpKINode Title="Tdif.tdifVer property" Url="html/P_TdifDefinition_Tdif_tdifVer.htm" />
+  <HelpKINode Title="Tdif.tdifVersionColumn field" Url="html/F_TdifDefinition_Tdif_tdifVersionColumn.htm" />
+  <HelpKINode Title="Tdif.tdifVersionRow field" Url="html/F_TdifDefinition_Tdif_tdifVersionRow.htm" />
+  <HelpKINode Title="Tdif.temperature property" Url="html/P_TdifDefinition_Tdif_temperature.htm" />
+  <HelpKINode Title="Tdif.temperatureColumn field" Url="html/F_TdifDefinition_Tdif_temperatureColumn.htm" />
+  <HelpKINode Title="Tdif.TestExecuted method" Url="html/M_TdifDefinition_Tdif_TestExecuted.htm" />
+  <HelpKINode Title="Tdif.testMode property" Url="html/P_TdifDefinition_Tdif_testMode.htm" />
+  <HelpKINode Title="Tdif.testModeColumn field" Url="html/F_TdifDefinition_Tdif_testModeColumn.htm" />
+  <HelpKINode Title="Tdif.testNameColumn field" Url="html/F_TdifDefinition_Tdif_testNameColumn.htm" />
+  <HelpKINode Title="Tdif.testNumColumn field" Url="html/F_TdifDefinition_Tdif_testNumColumn.htm" />
+  <HelpKINode Title="Tdif.testRecordDict field" Url="html/F_TdifDefinition_Tdif_testRecordDict.htm" />
+  <HelpKINode Title="Tdif.testRecordDictionary field" Url="html/F_TdifDefinition_Tdif_testRecordDictionary.htm" />
+  <HelpKINode Title="Tdif.testRecordIdentifier field" Url="html/F_TdifDefinition_Tdif_testRecordIdentifier.htm" />
+  <HelpKINode Title="Tdif.testType property" Url="html/P_TdifDefinition_Tdif_testType.htm" />
+  <HelpKINode Title="Tdif.testTypeColumn field" Url="html/F_TdifDefinition_Tdif_testTypeColumn.htm" />
+  <HelpKINode Title="Tdif.timeStampColumn field" Url="html/F_TdifDefinition_Tdif_timeStampColumn.htm" />
+  <HelpKINode Title="Tdif.tnum field" Url="html/F_TdifDefinition_Tdif_tnum.htm" />
+  <HelpKINode Title="Tdif.transpose_2DArray method" Url="html/M_TdifDefinition_Tdif_transpose_2DArray.htm" />
+  <HelpKINode Title="Tdif.unitColumn field" Url="html/F_TdifDefinition_Tdif_unitColumn.htm" />
+  <HelpKINode Title="Tdif.unitNumberColumn field" Url="html/F_TdifDefinition_Tdif_unitNumberColumn.htm" />
+  <HelpKINode Title="Tdif.utilityRevisionColumn field" Url="html/F_TdifDefinition_Tdif_utilityRevisionColumn.htm" />
+  <HelpKINode Title="Tdif.utilRevision property" Url="html/P_TdifDefinition_Tdif_utilRevision.htm" />
+  <HelpKINode Title="Tdif.valuesStartColumn field" Url="html/F_TdifDefinition_Tdif_valuesStartColumn.htm" />
+  <HelpKINode Title="Tdif.xcoordColumn field" Url="html/F_TdifDefinition_Tdif_xcoordColumn.htm" />
+  <HelpKINode Title="Tdif.ycoordColumn field" Url="html/F_TdifDefinition_Tdif_ycoordColumn.htm" />
+  <HelpKINode Title="TdifDefinition namespace" Url="html/N_TdifDefinition.htm" />
+  <HelpKINode Title="TdifDefinition.Bin class" Url="html/T_TdifDefinition_Bin.htm" />
+  <HelpKINode Title="TdifDefinition.DataRecord class" Url="html/T_TdifDefinition_DataRecord.htm" />
+  <HelpKINode Title="TdifDefinition.FormAppearance class" Url="html/T_TdifDefinition_FormAppearance.htm" />
+  <HelpKINode Title="TdifDefinition.Tdif class" Url="html/T_TdifDefinition_Tdif.htm" />
+  <HelpKINode Title="TdifDefinition.TestRecord class" Url="html/T_TdifDefinition_TestRecord.htm" />
+  <HelpKINode Title="TdifExtension class">
+    <HelpKINode Title="TdifExtension Class" Url="html/T_PukkaCode_TdifExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PukkaCode_TdifExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TdifExtension.Cp method" Url="html/M_PukkaCode_TdifExtension_Cp.htm" />
+  <HelpKINode Title="TdifExtension.Cpk method" Url="html/M_PukkaCode_TdifExtension_Cpk.htm" />
+  <HelpKINode Title="TdifExtension.firstQuartile method" Url="html/M_PukkaCode_TdifExtension_firstQuartile.htm" />
+  <HelpKINode Title="TdifExtension.getValidCount method" Url="html/M_PukkaCode_TdifExtension_getValidCount.htm" />
+  <HelpKINode Title="TdifExtension.GetValidDataList method" Url="html/M_PukkaCode_TdifExtension_GetValidDataList.htm" />
+  <HelpKINode Title="TdifExtension.Max method" Url="html/M_PukkaCode_TdifExtension_Max.htm" />
+  <HelpKINode Title="TdifExtension.Mean method" Url="html/M_PukkaCode_TdifExtension_Mean.htm" />
+  <HelpKINode Title="TdifExtension.Median method" Url="html/M_PukkaCode_TdifExtension_Median.htm" />
+  <HelpKINode Title="TdifExtension.Min method" Url="html/M_PukkaCode_TdifExtension_Min.htm" />
+  <HelpKINode Title="TdifExtension.minus4sigma method" Url="html/M_PukkaCode_TdifExtension_minus4sigma.htm" />
+  <HelpKINode Title="TdifExtension.minus5sigma method" Url="html/M_PukkaCode_TdifExtension_minus5sigma.htm" />
+  <HelpKINode Title="TdifExtension.minus6sigma method" Url="html/M_PukkaCode_TdifExtension_minus6sigma.htm" />
+  <HelpKINode Title="TdifExtension.PlottableDataList method" Url="html/M_PukkaCode_TdifExtension_PlottableDataList.htm" />
+  <HelpKINode Title="TdifExtension.plus4sigma method" Url="html/M_PukkaCode_TdifExtension_plus4sigma.htm" />
+  <HelpKINode Title="TdifExtension.plus5sigma method" Url="html/M_PukkaCode_TdifExtension_plus5sigma.htm" />
+  <HelpKINode Title="TdifExtension.plus6sigma method" Url="html/M_PukkaCode_TdifExtension_plus6sigma.htm" />
+  <HelpKINode Title="TdifExtension.Range method" Url="html/M_PukkaCode_TdifExtension_Range.htm" />
+  <HelpKINode Title="TdifExtension.StdDev method" Url="html/M_PukkaCode_TdifExtension_StdDev.htm" />
+  <HelpKINode Title="TdifExtension.TestedUnitsCount method" Url="html/M_PukkaCode_TdifExtension_TestedUnitsCount.htm" />
+  <HelpKINode Title="TdifExtension.thirdQuartile method" Url="html/M_PukkaCode_TdifExtension_thirdQuartile.htm" />
+  <HelpKINode Title="tdifFile field" Url="html/F_PukkaCode_SampleForm_tdifFile.htm" />
+  <HelpKINode Title="tdifVer property" Url="html/P_TdifDefinition_Tdif_tdifVer.htm" />
+  <HelpKINode Title="tdifVersionColumn field" Url="html/F_TdifDefinition_Tdif_tdifVersionColumn.htm" />
+  <HelpKINode Title="tdifVersionRow field" Url="html/F_TdifDefinition_Tdif_tdifVersionRow.htm" />
+  <HelpKINode Title="Temperature property" Url="html/P_TdifDefinition_TestRecord_Temperature.htm" />
+  <HelpKINode Title="temperature property" Url="html/P_TdifDefinition_Tdif_temperature.htm" />
+  <HelpKINode Title="temperatureColumn field" Url="html/F_TdifDefinition_Tdif_temperatureColumn.htm" />
+  <HelpKINode Title="temperatureLabel field" Url="html/F_PukkaCode_PukkaGUI_temperatureLabel.htm" />
+  <HelpKINode Title="temperature_textLabel field" Url="html/F_PukkaCode_PukkaGUI_temperature_textLabel.htm" />
+  <HelpKINode Title="TestedUnitsCount method" Url="html/M_PukkaCode_TdifExtension_TestedUnitsCount.htm" />
+  <HelpKINode Title="TestExecuted method" Url="html/M_TdifDefinition_Tdif_TestExecuted.htm" />
+  <HelpKINode Title="TestListItem property" Url="html/P_PukkaCode_Selected_TestListItem.htm" />
+  <HelpKINode Title="TestListItem2 property" Url="html/P_PukkaCode_Selected_TestListItem2.htm" />
+  <HelpKINode Title="testMode property" Url="html/P_TdifDefinition_Tdif_testMode.htm" />
+  <HelpKINode Title="testModeColumn field" Url="html/F_TdifDefinition_Tdif_testModeColumn.htm" />
+  <HelpKINode Title="TestName field" Url="html/F_PukkaCode_Pareto_TestName.htm" />
+  <HelpKINode Title="TestName property" Url="html/P_TdifDefinition_TestRecord_TestName.htm" />
+  <HelpKINode Title="testNameColumn field" Url="html/F_TdifDefinition_Tdif_testNameColumn.htm" />
+  <HelpKINode Title="testNameLabel field" Url="html/F_PukkaCode_PukkaGUI_testNameLabel.htm" />
+  <HelpKINode Title="TestNum property" Url="html/P_TdifDefinition_TestRecord_TestNum.htm" />
+  <HelpKINode Title="TestNumber field" Url="html/F_PukkaCode_Pareto_TestNumber.htm" />
+  <HelpKINode Title="testNumColumn field" Url="html/F_TdifDefinition_Tdif_testNumColumn.htm" />
+  <HelpKINode Title="TestRecord class">
+    <HelpKINode Title="TestRecord Class" Url="html/T_TdifDefinition_TestRecord.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TdifDefinition_TestRecord__ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TdifDefinition_TestRecord.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TestRecord.Format property" Url="html/P_TdifDefinition_TestRecord_Format.htm" />
+  <HelpKINode Title="TestRecord.HiLim property" Url="html/P_TdifDefinition_TestRecord_HiLim.htm" />
+  <HelpKINode Title="TestRecord.Index property" Url="html/P_TdifDefinition_TestRecord_Index.htm" />
+  <HelpKINode Title="TestRecord.LoLim property" Url="html/P_TdifDefinition_TestRecord_LoLim.htm" />
+  <HelpKINode Title="TestRecord.Specification property" Url="html/P_TdifDefinition_TestRecord_Specification.htm" />
+  <HelpKINode Title="TestRecord.Temperature property" Url="html/P_TdifDefinition_TestRecord_Temperature.htm" />
+  <HelpKINode Title="TestRecord.TestName property" Url="html/P_TdifDefinition_TestRecord_TestName.htm" />
+  <HelpKINode Title="TestRecord.TestNum property" Url="html/P_TdifDefinition_TestRecord_TestNum.htm" />
+  <HelpKINode Title="TestRecord.TestRecord constructor" Url="html/M_TdifDefinition_TestRecord__ctor.htm" />
+  <HelpKINode Title="TestRecord.Unit property" Url="html/P_TdifDefinition_TestRecord_Unit.htm" />
+  <HelpKINode Title="testRecordDict field" Url="html/F_TdifDefinition_Tdif_testRecordDict.htm" />
+  <HelpKINode Title="testRecordDictionary field" Url="html/F_TdifDefinition_Tdif_testRecordDictionary.htm" />
+  <HelpKINode Title="testRecordIdentifier field" Url="html/F_TdifDefinition_Tdif_testRecordIdentifier.htm" />
+  <HelpKINode Title="testType property" Url="html/P_TdifDefinition_Tdif_testType.htm" />
+  <HelpKINode Title="testTypeColumn field" Url="html/F_TdifDefinition_Tdif_testTypeColumn.htm" />
+  <HelpKINode Title="test_textLabel field" Url="html/F_PukkaCode_PukkaGUI_test_textLabel.htm" />
+  <HelpKINode Title="thirdQuartile method" Url="html/M_PukkaCode_TdifExtension_thirdQuartile.htm" />
+  <HelpKINode Title="TimeStamp property" Url="html/P_TdifDefinition_DataRecord_TimeStamp.htm" />
+  <HelpKINode Title="timeStampColumn field" Url="html/F_TdifDefinition_Tdif_timeStampColumn.htm" />
+  <HelpKINode Title="tnum field" Url="html/F_TdifDefinition_Tdif_tnum.htm" />
+  <HelpKINode Title="transpose_2DArray method" Url="html/M_TdifDefinition_Tdif_transpose_2DArray.htm" />
+  <HelpKINode Title="turboToolStripMenuItem field" Url="html/F_PukkaCode_PukkaGUI_turboToolStripMenuItem.htm" />
+  <HelpKINode Title="Unit property" Url="html/P_TdifDefinition_TestRecord_Unit.htm" />
+  <HelpKINode Title="unitColumn field" Url="html/F_TdifDefinition_Tdif_unitColumn.htm" />
+  <HelpKINode Title="UnitNumber property" Url="html/P_TdifDefinition_DataRecord_UnitNumber.htm" />
+  <HelpKINode Title="unitNumberColumn field" Url="html/F_TdifDefinition_Tdif_unitNumberColumn.htm" />
+  <HelpKINode Title="utilityRevisionColumn field" Url="html/F_TdifDefinition_Tdif_utilityRevisionColumn.htm" />
+  <HelpKINode Title="utilRevision property" Url="html/P_TdifDefinition_Tdif_utilRevision.htm" />
+  <HelpKINode Title="val field" Url="html/F_Sample_DataGridViewProgressCell_val.htm" />
+  <HelpKINode Title="ValueInfo field" Url="html/F_PukkaCode_Pareto_ValueInfo.htm" />
+  <HelpKINode Title="Values property" Url="html/P_TdifDefinition_DataRecord_Values.htm" />
+  <HelpKINode Title="valuesStartColumn field" Url="html/F_TdifDefinition_Tdif_valuesStartColumn.htm" />
+  <HelpKINode Title="XCoord property" Url="html/P_PukkaCode_Selected_XCoord.htm" />
+  <HelpKINode Title="Xcoord property" Url="html/P_TdifDefinition_DataRecord_Xcoord.htm" />
+  <HelpKINode Title="xcoordColumn field" Url="html/F_TdifDefinition_Tdif_xcoordColumn.htm" />
+  <HelpKINode Title="Ycoord property" Url="html/P_TdifDefinition_DataRecord_Ycoord.htm" />
+  <HelpKINode Title="YCoord property" Url="html/P_PukkaCode_Selected_YCoord.htm" />
+  <HelpKINode Title="ycoordColumn field" Url="html/F_TdifDefinition_Tdif_ycoordColumn.htm" />
+  <HelpKINode Title="Yield field" Url="html/F_PukkaCode_Pareto_Yield.htm" />
+  <HelpKINode Title="_ComponentListItem field" Url="html/F_PukkaCode_Selected__ComponentListItem.htm" />
+  <HelpKINode Title="_coords field" Url="html/F_PukkaCode_SelectedPlot__coords.htm" />
+  <HelpKINode Title="_Files field" Url="html/F_PukkaCode_SourceFile__Files.htm" />
+  <HelpKINode Title="_inputFile field" Url="html/F_PukkaCode_SourceFile__inputFile.htm" />
+  <HelpKINode Title="_mouseDownX field" Url="html/F_PukkaCode_SelectedPlot__mouseDownX.htm" />
+  <HelpKINode Title="_mouseDownY field" Url="html/F_PukkaCode_SelectedPlot__mouseDownY.htm" />
+  <HelpKINode Title="_mouseUpX field" Url="html/F_PukkaCode_SelectedPlot__mouseUpX.htm" />
+  <HelpKINode Title="_mouseUpY field" Url="html/F_PukkaCode_SelectedPlot__mouseUpY.htm" />
+  <HelpKINode Title="_SN field" Url="html/F_PukkaCode_Selected__SN.htm" />
+  <HelpKINode Title="_TestListItem field" Url="html/F_PukkaCode_Selected__TestListItem.htm" />
+  <HelpKINode Title="_TestListItem2 field" Url="html/F_PukkaCode_Selected__TestListItem2.htm" />
+  <HelpKINode Title="_XCoord field" Url="html/F_PukkaCode_Selected__XCoord.htm" />
+  <HelpKINode Title="_YCoord field" Url="html/F_PukkaCode_Selected__YCoord.htm" />
+</HelpKI>
